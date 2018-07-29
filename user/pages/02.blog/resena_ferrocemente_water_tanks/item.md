@@ -3,8 +3,8 @@
 title: Rese&ntilde;a del libro "Ferrocement Water Tanks and Their Construction"
 published: true
 date: '2016-01-17 10:07:15 +0100'
-
-
+author: Joan Navarrete
+body_classes: single single-post single-format-standard group-blog
 publish_date: '2016-01-17 10:07:15 +0100'
 
 taxonomy:

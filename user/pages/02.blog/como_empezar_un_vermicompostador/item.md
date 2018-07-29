@@ -3,6 +3,8 @@ title: Cómo empezar un vermicompostador casero
 published: true
 date: '2016-01-09 21:33:06 +0100'
 publish_date: '2016-01-09 21:33:06 +0100'
+author: Joan Navarrete
+body_classes: single single-post single-format-standard group-blog
 
 taxonomy:
     category:

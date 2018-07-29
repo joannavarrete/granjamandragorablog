@@ -3,6 +3,9 @@ title: 'Cómo construir un domo geodésico para las gallinas'
 published: true
 date: '28-07-2018 19:31'
 publish_date: '28-07-2018 19:31'
+author: Joan Navarrete
+body_classes: single single-post single-format-standard group-blog
+
 taxonomy:
     category:
         - sistemas
@@ -27,7 +30,7 @@ Un domo geodésico es una parte de una esfera geodésica. Para este tipo de domo
 El proceso de construcción es bastante sencillo. Lo primero es calcular, con una calculadora para domos en base a nuestro diámetro, la longitud de lo segmentos. Como no vamos a usar uniones, sino que vamos a chafar los tubos, hemos aumentando un poco esa cifra.
 
 Lo segundo es cortar todos los segmentos. Como hemos comentado antes, nuestro domo es de frecuencia tres y su diámetro es de 217cm así que tenemos tres tipos distintos de longitudes: A=48cm, B=47cm y C=41cm. 
-Luego calentamos las bocas de los segmentos con un soplete y las chafamos con un gato o un torno. ésta es la parte del proceso más tediosa. Si te la quieres saltar, puedes comprar uniones para domos en Amazon.
+Luego calentamos las bocas de los segmentos con un soplete y las chafamos con un gato o un torno. Esta es la parte del proceso más tediosa. Si te la quieres saltar, puedes comprar uniones para domos en Amazon.
 
 Para terminar las uniones taladramos las bocas chafadas a la distancia que obtuvimos de la calculadora de domos. Deberían quedar más o menos así.
 
@@ -46,7 +49,7 @@ Para terminar las uniones taladramos las bocas chafadas a la distancia que obtuv
 
 
 
-El último paso es ensamblar el domo siguiendo unas instrucciones como estas.
+El último paso es ensamblar el domo siguiendo unas instrucciones como [estas.](https://simplydifferently.org/view/Data/Geodesic_Dome/dome/05-l3-1_2.map.png)
 
 Lo normal es montarlo de abajo a arriba.
 
