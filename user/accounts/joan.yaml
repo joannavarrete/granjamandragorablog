@@ -1,0 +1,11 @@
+email: joan.navarrete.sanchez@gmail.com
+fullname: 'Joan Navarrete'
+title: Administrador
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$6YcEYcUmfe7TbPlJi/BY5Oi.1iDqKiTvpcl.v7.Kedxnvc2CJhNt6
