@@ -1,13 +1,13 @@
-title: Gateway
+title: Granja Mandragora
 author:
-  name: John Appleseed                      # Default author name
-  email: 'john@email.com'                   # Default author email
+  name: Joan Navarrete                       # Default author name
+  email: joan.navarrete@granjamandragora.es                   # Default author email
   copyright: "Copyright 2013 Gateway. All Rights Reserved."
 
 # Logo must be uploaded to theme's img folder.
 logo: logo.png
 header:
-  title: The City &amp; the Wild
+  title: Permacultura Mediterránea
   description: Gateway has elegant style perfectly suited for a variety of users; writers, businesses or personal sites. Design is everywhere... even under the hood with rock solid development.
   background: DSC_0549.jpg
   buttons:
@@ -29,7 +29,7 @@ taxonomies: [category,tag,featured]                  # Arbitrary list of taxonom
 blog:
   route: '/blog'                            # Route to blog
 metadata:
-    description: 'My Gateway Site'             # Site description
+    description: 'Granja Mandragora'             # Site description
 summary:
   size: 300                                 # Maximum length of summary (characters)
 routes:

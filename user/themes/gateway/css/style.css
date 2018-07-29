@@ -261,7 +261,7 @@ object {
 6.0 Header
 --------------------------------------------------------------*/
 .bg-image-header .site-branding, .home-header-bg .site-branding {
-  padding: 2.188em 0;
+  padding-top: 8em;
   text-align: center;
   display: block;
   margin: 0 auto;
