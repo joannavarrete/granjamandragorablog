@@ -17,10 +17,12 @@ taxonomy:
 Los domos están de moda. Es normal, son estructuras ligeras, resistentes, tremendamente estables contra el viento y faciles de montar. Nosotros como no queriamos ser menos, cuando nos encontramos con este montón de retales de tubos el otro día, pensamos en construirnos uno.
 
 
+[columns count=2 width=200px ]
 ![Retales de Tubo](/images/domo/retales_de_tubo.jpg)
 
 
 Un domo geodésico es una parte de una esfera geodésica. Para este tipo de domos pequeños y sin cargas elevadas, la gente suele elegir el de frecuencia dos, pero este es de frecuencia tres. Teníamos tubo de sobra. La medida es de cinco octavas partes de una esfera.
+[/columns]    
 
 El proceso de construcción es bastante sencillo. Lo primero es calcular, con una calculadora para domos en base a nuestro diámetro, la longitud de lo segmentos. Como no vamos a usar uniones, sino que vamos a chafar los tubos, hemos aumentando un poco esa cifra.
 
@@ -29,11 +31,18 @@ Luego calentamos las bocas de los segmentos con un soplete y las chafamos con un
 
 Para terminar las uniones taladramos las bocas chafadas a la distancia que obtuvimos de la calculadora de domos. Deberían quedar más o menos así.
 
+[columns count=3 width=200px]
 
-![Calentando Tubo](/images/domo/calentando_tubo.jpg?){.large-4 columns}
+![Calentando tubo](/images/domo/calentando_tubo.jpg)
+
+
 ![Prensando bocas](/images/domo/prensando_bocas_tubo.JPG)
-![Union Tubo](/images/domo/union_tubo.jpg)
 
+
+![Union tubo](/images/domo/union_tubo.jpg)
+
+
+[/columns]
 
 
 

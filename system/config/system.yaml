@@ -45,7 +45,7 @@ pages:
     page: true                                   # Enable page level events
     twig: true                                   # Enable Twig level events
   markdown:
-    extra: false                                 # Enable support for Markdown Extra support (GFM by default)
+    extra: true                                 # Enable support for Markdown Extra support (GFM by default)
     auto_line_breaks: false                      # Enable automatic line breaks
     auto_url_links: false                        # Enable automatic HTML links
     escape_markup: false                         # Escape markup tags into entities
