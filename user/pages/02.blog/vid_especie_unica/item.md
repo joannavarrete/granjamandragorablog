@@ -5,7 +5,7 @@ date: '2015-12-17 18:13:21 +0100'
 publish_date: '2015-12-17 18:13:21 +0100'
 author: Joan Navarrete
 body_classes: single single-post single-format-standard group-blog
-
+featured: true
 taxonomy:
     category:
         - sistemas
@@ -15,14 +15,13 @@ taxonomy:
         - especies comestibles
         - plantas trepadoras
         - especies clima mediterráneo
-    featured: true
-        
+
 ---
 
 La vid forma parte de la triada mediterránea, junto con el trigo y el
 olivo. De ellos se obtienen los tres productos básicos de la
-alimentación tradicional de esta zona del mundo: el vino, el pan y el
-aceite de oliva.
+alimentación tradicional de esta zona del mundo: *el vino, el pan y el
+aceite de oliva.*
 
 Son tres cultivos para terrenos marginales, de secano, como el nuestro. Pero
 en los pueblos de la Vall de Guadalest sólo el olivo ha perdurado. Es el
@@ -40,6 +39,13 @@ alcanza de trigo modificado genéticamente.
 Abajo podéis ver una foto de nuestras olivas y de un bancal plantado
 con centeno.
 
+[columns count=2 width=200px ]
+![Olivas en Rama](/images/vides/olivas-en-rama@3x.jpg)
+
+![Centeno Plantado](/images/vides/centeno-plantado-2@3x.jpg)
+[/columns]
+
+
 Antiguamente, en los pueblos del Valle de Guadalest, el cultivo de la vid y,
 con ello, la elaboración de vino y pasas estaba muy extendido, pero con
 la plaga de la filoxera esta tradición se fue perdiendo y hoy sólo
@@ -52,13 +58,12 @@ quedan unas pequeñas viñas en todo el valle.
 
 
 La triada mediterránea. De todas formas, confiar tu sustento a
-sólo tres especies nos parece poco. En 
-sabemos que cuanto más diverso es un sistema, más estable y
+sólo tres especies nos parece poco. Sabemos que cuanto más diverso es un sistema, más estable y
 resistente es: si te falla una cosecha siempre puedes contar con otra. Antes
-quizá no fuera así, porque no era posible, no se conocían
-tantas plantas, pero ahora dispones de infinidad de especies de todas partes del
-planeta que podrían prosperar en cualquier clima. Un solo clic y las
-tienes en casa. En un bosque comestible es normal que estén representadas
+quizá no fuera así, porque no era posible, no se conocían tantos tipos de
+plantas. Y si las conocían era muy difícil conseguirlas. Hoy en día no es
+así, ahora puedes disponer de infinidad de especies de todas partes del
+planeta.Un solo clic y las tienes en casa. En un bosque comestible es normal que estén representadas
 unas 70 especies y hay casos de hasta unas 300.
 
 
@@ -72,7 +77,7 @@ entre estos plantaríamos tubérculos. Las trepadoras
 crecerían subiendo por las ramas de los árboles más altos.
 
 Pero, entre todo este abanico de posibilidades, nosotros nos hemos dado
-cuenta de que  Los
+cuenta de que los
 organismos, con el paso del tiempo, sufren un proceso evolutivo que los adapta a
 su entorno. Y la vid cumple unos propósitos en un entorno que no otra
 planta puede cumplir.
@@ -105,6 +110,14 @@ más de quince unidades de una variedad.
 cálidos, resistentes a la sequía y poco propensas a
 plagas.
 
+[columns count=2 width=200px ]
+![Vides a raiz desnuna](/images/vides/vides-raiz-desnuda@3x.jpg)
+
+![Vid recien plantada](/images/vides/vid-recien-plantada@3x.jpg)
+[/columns]
+
+
+
 Otro principio conocido de permacultura es que un elemento debe cumplir
 más de una función. Nosotros plantamos las vides en espalderas o
 en pergolas. Nos proporcionan privacidad y sombra en verano y dejan pasar el sol
@@ -119,6 +132,13 @@ diario.
 El año pasado plantamos algunas de las vides en Hugelkulturs y de
 momento han funcionado muy bien. Estas fotos son del Hugelkultur de este
 año. Antes y después.
+
+[columns count=2 width=200px ]
+![Hugelkultur a medias](/images/vides/hugelkultur-vides-2@3x.jpg)
+
+![Hugelkultur terminado](/images/vides/hugelkultur-vides-3@3x.jpg)
+[/columns]
+
 
 Ademas de vides para consumo en fresco y para vino, queremos plantar vides
 para elaborar pasas, que nos encantan. Así que nos queda seguir plantando

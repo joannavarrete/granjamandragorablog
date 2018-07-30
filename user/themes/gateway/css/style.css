@@ -266,6 +266,13 @@ object {
   display: block;
   margin: 0 auto;
 }
+
+.bg-image-header .site-branding {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+
 .bg-image-header .site-branding h1 a, .home-header-bg .site-branding h1 a {
   color: #FFFFFF;
 }
@@ -1020,6 +1027,11 @@ footer .widget {
 footer .widget li {
   margin-bottom: 0.75em;
 }
+
 footer .widget-title {
+  color: #FFFFFF;
+}
+
+footer .textwidget {
   color: #FFFFFF;
 }

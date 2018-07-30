@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 form:
     name: my-nice-form
     fields:

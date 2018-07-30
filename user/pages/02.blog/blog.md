@@ -17,10 +17,10 @@ content:
     pagination: true
 
 feed:
-    description: Sample Blog Description
+    description: El blog de Granja Mandragora
     limit: 10
 
 pagination: true
 ---
-## Latest News
-### Change these titles to anything you'd like in the admin panel or markdown files.
+## Últimos Articulos
+### Cambiar esto por una buena descripcion, lo de arriba tambien.
