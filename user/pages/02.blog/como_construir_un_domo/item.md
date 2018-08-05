@@ -1,5 +1,5 @@
 ---
-title: 'Cómo construir un domo geodésico para las gallinas'
+title: 'Cómo construir un domo geodésico'
 published: true
 date: '28-07-2018 19:31'
 publish_date: '28-07-2018 19:31'
@@ -13,10 +13,8 @@ taxonomy:
     tag:
         - 'domo geodesico'
         - gallinero
+    featured: true
 ---
-
-![Domo Terminado](/images/domo/domo_terminado.jpg)
-
 Los domos están de moda. Es normal, son estructuras ligeras, resistentes, tremendamente estables contra el viento y faciles de montar. Nosotros como no queriamos ser menos, cuando nos encontramos con este montón de retales de tubos el otro día, pensamos en construirnos uno.
 
 
@@ -57,3 +55,5 @@ Lo normal es montarlo de abajo a arriba.
 Se puede colocar un plástico, rafia o lona por encima del domo para que las gallinas no pasen frio ni estén expuestas a corrientes de aire. Nosotros hemos preparado un sistema de perchas en el interior para que las gallinas se posen al dormir.
 
 Ya os contaremos cómo funciona el invento.
+
+![Domo Terminado](/images/domo/domo_terminado.jpg)

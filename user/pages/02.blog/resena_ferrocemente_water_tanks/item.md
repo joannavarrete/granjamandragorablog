@@ -17,6 +17,9 @@ taxonomy:
 
 ---
 
+![Deposito de ferrocemento](/images/deposito_ferrocemento/deposito_ferrocemento@3x.jpg)
+
+
 Abres el grifo y sale agua. Sencillo. Giras para un lado y sale caliente,
 para el otro y sale fría. Sin complicaciones. De gusto no está muy
 allá, más bien desagradable, eso sí. Pero bueno, es lo que
@@ -63,6 +66,12 @@ generales. Y luego pasa a describir distintos ejemplos, con sus correspondientes
 diseños y técnicas. Algo que viene muy bien para comparar y
 seleccionar las partes que más nos interesen.
 
+[columns count=2 width=200px ]
+![Deposito de ferrocemento](/images/deposito_ferrocemento/deposito_ferrocemento2@3x.jpg)
+
+![Detalle salida de desague](/images/deposito_ferrocemento/detalle_salida_desague@3x.jpg)
+[/columns]
+
 Por defecto, los diseños intentan ser lo más económicos
 posibles, reduciendo el contenido en hierro, para que simplemente supere el
 punto de rotura. Nosotros, que preferimos ir a lo seguro, combinamos distintas
@@ -76,9 +85,10 @@ pero necesarios. Experiencia que nos gustaría compartir.
 
 Así que, si mientras estamos plasmando en papel ese conocimiento
 tenéis algún problema o queréis más
-información contáctanos en <a
-href="mailto:contacto@granjamandragora.es">contacto@granjamandragora.es</a>
+información contáctanos en <a href="mailto:contacto@granjamandragora.es">contacto@granjamandragora.es</a>
 
 Algunos enlaces en este articulo contienen nuestro ID de
 afiliado, lo que nos proporciona una pequeña comisión por cada
 venta que se realiza. Muchas gracias por tu apoyo.
+
+
