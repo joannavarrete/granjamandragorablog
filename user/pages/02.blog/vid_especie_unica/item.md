@@ -5,7 +5,7 @@ date: '2015-12-17 18:13:21 +0100'
 publish_date: '2015-12-17 18:13:21 +0100'
 author: Joan Navarrete
 body_classes: single single-post single-format-standard group-blog
-featured: true
+
 taxonomy:
     category:
         - sistemas
@@ -15,6 +15,7 @@ taxonomy:
         - especies comestibles
         - plantas trepadoras
         - especies clima mediterráneo
+    featured: true
 
 ---
 

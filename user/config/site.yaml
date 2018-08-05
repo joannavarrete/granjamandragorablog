@@ -19,11 +19,11 @@ header:
 social:
   - url: 'https://twitter.com/getgrav'
     icon: 'twitter'
-  - url: '#'
+  - url: 'https://www.facebook.com/granjamandragora/'
     icon: 'facebook'
   - url: 'http://www.vimeo.com'
     icon: 'vimeo-square'
-  - url: 'http://www.pinterest.com'
+  - url: 'https://www.pinterest.es/mandragorafarm/'
     icon: 'pinterest'
 
 taxonomies: [category,tag,featured]                  # Arbitrary list of taxonomy types
