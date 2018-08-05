@@ -1,5 +1,5 @@
 ---
-title: 'Rese&ntilde;a del libro &ldquo;Water Storage: Tanks, Cisterns, Aquifers;'
+title: Reseña del libro "Water Storage: Tanks, Cisterns, Aquifers"
 date: '2016-01-17 10:30:32 +0100'
 published_date: '2016-01-17 10:30:32 +0100'
 published: true

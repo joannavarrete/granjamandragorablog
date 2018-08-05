@@ -9,12 +9,11 @@ body_classes: single single-post single-format-standard group-blog
 taxonomy:
     category:
         - sistemas
-        - bosque comestible
+        - bosque 
+    featured: true
     tag:
 
 ---
-
-###Diversidad
 
 Un factor crucial a la hora de diseñar un bosque comestible es alcanzar la mayor
 diversidad. No solo diversidad genética, sino diversidad estructural y
@@ -94,8 +93,6 @@ integrar en nuestro bosque comestible aplicando dos principios.*
 
 ![Triturando Rama](/images/pino/triturando_rama2@3x.jpg)
 [/columns]
-
-
 
 ####El principio de la cosecha
 

@@ -1,6 +1,7 @@
 ---
 title: Cambiando el alternador y otras cosas sobre vehículos
 date: '2016-02-14 12:03:09 +0100'
+published: false
 ---
 
 Hace un par de meses se averió el alternador de la furgoneta. Ayer me decidí a

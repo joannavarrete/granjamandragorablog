@@ -3,7 +3,7 @@ title: Sticky Post Example
 date: 14:55 07/11/2014
 body_classes: single single-post postid-15 single-format-standard group-blog
 post_class: sticky
-continue_link: false
+published: false
 ---
 
 This is a sticky post.
