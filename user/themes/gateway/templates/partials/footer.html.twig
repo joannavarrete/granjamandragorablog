@@ -18,18 +18,30 @@
                      </div>
                   </aside>
                </div>
-               {% if config.plugins.archives.enabled %}
+
+	
+
                <div class="large-4 columns">
-                  <aside id="recent-posts-4" class="widget widget_recent_entries">
-                      <h1 class="widget-title">Archivo</h1>
-                     	{% include 'partials/archives.html.twig' %}
+                 {% if site.social %}
+                  <aside id="search-4" class="widget widget_search search-form">
+                     <h1 class="widget-title">
+						Escribenos a <a href="mailto:contacto@granjamandragora.es">contacto@granjamandragora.es</a>
+					</h1>
                   </aside>
+                  {% endif %}
+                  {% if config.plugins.simplesearch.enabled %}
+                  <aside id="search-4" class="widget widget_search search-form">
+                     <h1 class="widget-title">Y si nos quieres visitar estamos en el embalse del Castell de Guadalest</h1>					
+					{{ media['theme://img/background.jpg'].html() }}
+                  </aside>
+                   {% endif %}
                </div>
-               {% endif %}
+
+
                <div class="large-4 columns">
                  {% if site.social %}
                   <aside id="text-6" class="widget widget_text">
-                     <h1 class="widget-title">Sigue en Contacto</h1>
+                     <h1 class="widget-title">Siguenos en las redes sociales</h1>
                      <div class="textwidget">
                        {% for item in site.social %}
                          <a href="{{ item.url }}"><i class="fa fa-{{ item.icon }}"></i></a>

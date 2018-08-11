@@ -16,10 +16,12 @@
 	<a class="button" href="{{ base_url_relative }}/random"><i class="fa fa-retweet"></i> I'm Feeling Lucky!</a>
 </aside>
 {% endif %}
-<aside class="widget widget_categories">
-	<h1 class="widget-title">Some Text Widget</h1>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+{% if config.plugins.taxonomylist.enabled %}
+<aside class="widget widget_tag_cloud">
+    <h1 class="widget-title">Etiquetas Populares</h1>
+    {% include 'partials/taxonomylist.html.twig' with {'taxonomy':'tag'} %}
 </aside>
+{% endif %}
 <aside class="widget widget_recent_entries">
 	<h1 class="widget-title">Últimos Articulos</h1>
   <ul>
@@ -30,12 +32,7 @@
 {% endfor %}
 </ul>
 </aside>
-{% if config.plugins.taxonomylist.enabled %}
-<aside class="widget widget_tag_cloud">
-    <h1 class="widget-title">Etiquetas Populares</h1>
-    {% include 'partials/taxonomylist.html.twig' with {'taxonomy':'tag'} %}
-</aside>
-{% endif %}
+
 {% if config.plugins.feed.enabled %}
 <aside class="widget widget_meta">
     <h1 class="widget-title">Suscríbete</h1>

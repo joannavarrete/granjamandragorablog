@@ -21,8 +21,8 @@ taxonomy:
 
 La vid forma parte de la triada mediterránea, junto con el trigo y el
 olivo. De ellos se obtienen los tres productos básicos de la
-alimentación tradicional de esta zona del mundo: *el vino, el pan y el
-aceite de oliva.*
+alimentación tradicional de esta zona del mundo: **el vino, el pan y el
+aceite de oliva.**
 
 Son tres cultivos para terrenos marginales, de secano, como el nuestro. Pero
 en los pueblos de la Vall de Guadalest sólo el olivo ha perdurado. Es el

@@ -17,7 +17,7 @@ taxonomy:
 
 Un factor crucial a la hora de diseñar un bosque comestible es alcanzar la mayor
 diversidad. No solo diversidad genética, sino diversidad estructural y
-funcional. *Cuanto más diverso es un bosque más cosechas produce.* Y
+funcional. **Cuanto más diverso es un bosque más cosechas produce.** Y
 cosechas abundantes es algo sin duda deseable. Un bosque diverso contiene más
 interconexiones, es más complejo y más estable.
 
@@ -42,7 +42,7 @@ carrasco. Una única especie en el dosel forestal. No parece un sistema
 con mucha biodiversidad. Ni tampoco parece un buen sistema para usar como
 modelo.
 
-*Por supuesto estos bosques no son autoctonos*. No en esas
+**Por supuesto estos bosques no son autoctonos**. No en esas
 proporciones. Son bosques creados por el hombre. Y, desde mi punto de vista, mal
 creados.
 >Debido al abandono de las actividades agropecuarias y forestales
@@ -58,7 +58,7 @@ aumento de la frecuencia e intensidad de los incendios forestales, etc.
 
 ###Características del pino
 
-*El pino es un competidor*. Este tipo de arboles invierte todos
+**El pino es un competidor**. Este tipo de arboles invierte todos
 sus recursos no en fructificar, ni en reproducirse o crecer, sino en soportar
 estres. Sus aciculas resinosas reducen la transpiración al minimo, sus
 raices pueden viajar distancias increibles y, ademas, excretan una sustancia
@@ -72,8 +72,8 @@ se deben centrar en reducir la competencia.
 Si, como nosotros, te dispones a realizar un bosque comestible por el sureste
 español, lo más seguro es que te encuentres con algún pino carrasco en tu
 terreno. Uno solo no hace daño, pero con densidades muy elevadas plantearse la
-opción de talar se vuelve inevitable. *Inevitable e ilegal, porque el pino
-carrasco está protegido por ley.* Así que, con densidades elevadas de pino, tu
+opción de talar se vuelve inevitable. **Inevitable e ilegal, porque el pino
+carrasco está protegido por ley.** Así que, con densidades elevadas de pino, tu
 proyecto entra en una noche negra, negra con ruido a motosierra. Y, hablamos de
 talar porque el pino carrasco, aparte de todas sus bondades y defectos, no es
 comestible. Una pinada será má o menos bonita, pero no te va a dar mucho de
@@ -82,11 +82,11 @@ comer.
 >El pino carrasco (Pinus halepensis) es la especie forestal
 más abundante en la parte occidental de la cuenca mediterránea,
 donde ocupa unos 3,5 millones de hectáreas y domina las formaciones
-arbóreas en zonas secas y semiáridas. *En la provincia de Alicante,
-los pinares de P. halepensis forman el 80 % de su superficie forestal*
+arbóreas en zonas secas y semiáridas. **En la provincia de Alicante,
+los pinares de P. halepensis forman el 80 % de su superficie forestal**
 
-*En la Granja Mandragora solo contamos con algunos ejemplares de pino que vamos a
-integrar en nuestro bosque comestible aplicando dos principios.*
+**En la Granja Mandragora solo contamos con algunos ejemplares de pino que vamos a
+integrar en nuestro bosque comestible aplicando dos principios.**
 
 [columns count=2 width=200px ]
 ![Ramas preparadas para ser cortadas](/images/pino/ramas_preparadas_para_cortar@3x.jpg)
@@ -122,7 +122,7 @@ hemos tenido ning&uacute;n problema.
 
 >En todo ecosistema y para cada especie o conjunto de especies va a existir un
 factor, ya sea agua, profundidad del terreno, nitrogeno, un micronutriente,
-etc. que va a *limitar el crecimiento.*
+etc. que va a **limitar el crecimiento.**
 
 Y es, por ese recurso, por el que se va a competir de manera más feroz. Por eso
 en terrenos más humedos y fertiles los arboles se pueden plantar más juntos.

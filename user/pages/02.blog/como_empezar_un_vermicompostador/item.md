@@ -14,15 +14,27 @@ taxonomy:
         - vermicompostador
 ---
 
+Uno de los principios de la
+[Permacultura](https://es.wikipedia.org/wiki/Permacultura) es el de **no generar
+desechos**.
 
+Es un buen principio, si todos lo siguieramos la raza humana no se encontraría
+en la situación en la que se encuentra ahora: con una
+[isla de plastico](https://es.wikipedia.org/wiki/Isla_de_basura) flotando por el
+Pacífico.
 
+Reducir los desechos inorgánicos puede ser complicado. Con los orgánicos no
+tenemos ese problema: siempre los podemos compostar. Si los compostamos
+obtenemos compost, pero si criamos lombrices obtenemos vermicompost, lombrices y
+exudado. Ciclamos y maximizamos.
 
+Vamos a ponernos a criar lombrices entonces. 
+
+![Lombrices](/images/lombricultura/lombrices_2@3x.jpg)
 
 Queremos lombrices productivas que nos provean de vermicompost, exudado y,
 como no, más lombrices. Pero, para ello, la primera pregunta que nos
 debemos hacer es: **¿Qué quieren las lombrices?**
-
-
 
 Cosas sencillas
 
@@ -63,6 +75,13 @@ no pueden sobrevivir mucho tiempo en agua estancada. Así que drenar
 el exceso de agua es imperativo, para ello usamos el desag&uuml;e de la
 bañera. Y, queremos que salga el agua, pero no las lombrices, por eso
 cubrimos el desag&uuml;e con un pedazo de tela mosquitera.
+
+[columns count=2 width=200px ]
+![Regando la bañera](/images/lombricultura/regando_la_banera@3x.jpg)
+
+![Bañeras terminadas](/images/lombricultura/baneras_terminadas@3x.jpg)
+[/columns]
+
 
 ####Aireación  {#aireacion}
 
@@ -106,6 +125,11 @@ Las lombrices se alimentan de desperdicios de cocina y del estiércol
 de las cabras. En ocasiones añadimos un poco de estiércol de
 oveja curado para potenciar los nutrientes.
 
+[columns count=2 width=200px ]
+![Estiercol](/images/lombricultura/estiercol@3x.jpg)
+
+![Bañera con comida](/images/lombricultura/banera_con_comida@3x.jpg)
+[/columns]
 
 #### Protección contra depredadores {#depredadores}
 
