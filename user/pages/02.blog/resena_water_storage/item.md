@@ -37,8 +37,8 @@ ahora, una prioridad.
 
 Para planificar, diseñar y construir hemos contado con un recurso, (yo
 diría el único recurso) que ha sido de una ayuda inestimable: el
-libro 
-
+libro [Water Storage: Tanks, Cisterns, Aquifers, and Ponds for Domestic Supply, Fire and Emergency Use](
+https://www.amazon.es/gp/product/0964343363/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0964343363&linkCode=as2&tag=granjmandr-21&linkId=8f3ab9a849b363c708d5e6ad9d6c2e7f)
 
 Ha sido decisivo a la hora
 de elegir; debido a él no terminamos comprando ni un depósito de
@@ -67,7 +67,7 @@ sin la cual hubiéramos gastado muchos más recursos de los
 necesarios: cómo construir tanques de ferrocemento. Estos
 depósitos son baratos, sencillos de construir y duran más que las
 opciones comerciales. Si te interesa el tema, puedes complementar y ampliar
-información con el libro:
+información con el libro: [Ferrocement Water Tanks and their Construction](https://www.amazon.es/gp/product/0903031515/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0903031515&linkCode=as2&tag=granjmandr-21&linkId=ae6f15ddec513d95337cc5f0196fefe8)
 
 
 Este libro trata todos los aspectos del almacenamiento de agua: filtrado,
