@@ -1,0 +1,14 @@
+---
+title: Sistemas
+body_classes: "fullwidth"
+
+content:
+    items: '@self.modular'
+    order:
+        by: default
+        dir: asc
+        custom:
+            - _carousel			
+            - _resto
+
+---

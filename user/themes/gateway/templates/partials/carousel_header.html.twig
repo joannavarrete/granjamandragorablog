@@ -1,0 +1,48 @@
+<style type="text/css" id="rescue_custom_css">
+.sistems-banner {
+  margin: 0 auto;
+  display: table;
+  padding: 5em;
+}
+</style>
+
+<div class="owl-carousel" id="owl-d83729ecb9">
+  <div style="background: url({{ page.media['abejas_1.jpeg'].url }}) 50% 50%;background-size: cover;color:#fff;">
+    <div class="hero-widgets-wrap sistems-banner">
+       <a href="sistemas/apicultura">
+         <h1 class="widget-title">Apicultura</h1>
+         </a>
+    </div>    
+  </div>
+  
+  <div style="background: url({{ page.media['placas_solares.jpg'].url }}) 50% 50%;background-size: cover;color:#fff;">
+    <div class="hero-widgets-wrap sistems-banner">
+      <a href="sistemas/fotovoltaico">
+        <h1 class="widget-title">Energia Fotovoltaica</h1>
+      </a>
+    </div>      
+  </div>
+  
+  <div style="background: url({{ page.media['patron_gallina.jpg'].url }}) 50% 50%;background-size: cover;color:#fff;">
+    <div class="hero-widgets-wrap sistems-banner">
+      <a href="sistemas/gallinas">
+        <h1 class="widget-title">Gallinas</h1>
+      </a>
+    </div> 
+  </div>
+  
+</div>
+
+<script>
+    $(document).ready(function(){
+        $("#owl-d83729ecb9").owlCarousel({
+    items: 1,
+    loop: true,
+    nav: false,
+    dots: false
+
+    });
+    });
+</script>
+
+
