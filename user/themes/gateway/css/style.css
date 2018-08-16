@@ -565,6 +565,12 @@ html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]
   margin-top: 4.5em;
 }
 
+.title_center .entry-title {
+  text-align: center;
+}
+
+
+
 /*--------------------------------------------------------------
 9.1 Posts
 --------------------------------------------------------------*/

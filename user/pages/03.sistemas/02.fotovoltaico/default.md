@@ -1,4 +1,8 @@
-#Energía solar fotovoltaica
+---
+title: Energía fotovoltaica
+body_classes: title_center
+fullwidth: true
+---
 
 Cuando nos mudamos, en octubre de 2014, vivimos durante un mes sin energía
 eléctrica. Por las tardes nos alumbraba la luz de las velas. El mes siguiente
