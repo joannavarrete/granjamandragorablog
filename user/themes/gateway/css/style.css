@@ -569,6 +569,10 @@ html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]
   text-align: center;
 }
 
+.text_center {
+  text-align: center;
+}
+
 
 
 /*--------------------------------------------------------------

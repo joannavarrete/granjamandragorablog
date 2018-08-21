@@ -110,9 +110,9 @@ errors:
   display: 0
   log: true
 debugger:
-  enabled: false
+  enabled: true
   shutdown:
-    close_connection: true
+    close_connection: false
   twig: true
 images:
   default_image_quality: 85
