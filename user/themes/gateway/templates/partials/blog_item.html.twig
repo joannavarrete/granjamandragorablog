@@ -120,11 +120,13 @@ has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.heade
     {% set show_prev_next = true %}
     {% endif %}
 
-
+      <div class="sharedaddy sd-sharing-enabled">
+        {% include 'partials/mailchimp.html.twig' %}
+      </div>
     {% if not truncate %}
       <div class="sharedaddy sd-sharing-enabled">
         <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-          <h3 class="sd-title">{{ 'COMPARTE'|t }}</h3>
+          <h3 class="">{{ 'COMPARTE'|t }}</h3>
           <div class="sd-content">
             <ul>
               <li class="share-facebook">
@@ -158,7 +160,7 @@ has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.heade
 
       {% if not truncate %}
     <div id="jp-relatedposts" class="jp-relatedposts" style="display: block;">
-      <h3 class="jp-relatedposts-headline"><em>{{ 'ARTÍCULOS RELACIONADOS'|t }}</em></h3>
+      <h3 class=""><em>{{ 'ARTÍCULOS RELACIONADOS'|t }}</em></h3>
       <div class="jp-relatedposts-items jp-relatedposts-items-visual">
         {% include 'partials/relatedpages.html.twig' %}
       </div>
