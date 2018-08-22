@@ -117,13 +117,16 @@ has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.heade
         {% endfor %}
       <hr class="rescue-spacing " style="height: 30px">
       {% endif %}
-    {% set show_prev_next = true %}
+      {% set show_prev_next = true %}
+
+      
     {% endif %}
 
+      
+      {% if not truncate %}
       <div class="sharedaddy sd-sharing-enabled">
         {% include 'partials/mailchimp.html.twig' %}
       </div>
-    {% if not truncate %}
       <div class="sharedaddy sd-sharing-enabled">
         <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
           <h3 class="">{{ 'COMPARTE'|t }}</h3>
