@@ -1,10 +1,12 @@
-enabled: false
+enabled: true
 
-provider: ""
+provider: "disqus"
 
 providers:
   disqus:
-    shortname: ""
+    shortname: "www-granjamandragora-es"
+    show_count: false       # Show comment count
+    language: 'es'            # Default language (e.g. 'en')
 
   intensedebate:
     acct: ""
