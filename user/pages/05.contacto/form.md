@@ -4,8 +4,8 @@ form:
     name: my-nice-form
     fields:
         - name: name
-          label: Name
-          placeholder: Enter your name
+          label: Nombre
+          placeholder: Introduce tu nombre
           autofocus: on
           autocomplete: on
           type: text
@@ -14,23 +14,23 @@ form:
 
         - name: email
           label: Email
-          placeholder: Enter your email address
+          placeholder: Introduce tu dirección de email
           type: text
           validate:
             rule: email
             required: true
 
         - name: message
-          label: Message
+          label: Mensaje
           size: long
-          placeholder: Enter your message
+          placeholder: Introduce tu mensaje
           type: textarea
           validate:
             required: true
 
     buttons:
         - type: submit
-          value: Submit »
+          value: Enviar »
           classes: btn
 
     process:
@@ -46,9 +46,21 @@ form:
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - message: Thank you for your feedback!
+        - message: Muchas gracias por contactarnos
         - display: thankyou
 ---
-A contact form is a great way to offer your readers the ability to get in touch, without giving out your personal email address. You can add a contact form to any post or page from the editor.
 
-Each contact form can easily be customized to fit your needs too. When a user submits your contact form, the feedback will be filtered through Akismet (if it is active on your site) to make sure it’s not spam. Any legitimate feedback will then be emailed to you, and added to your feedback management area.
+Contacta con nosotros si quieres conocernos. Vente a la granja y pasa un rato
+con nosotros. 
+
+Nos Puedes pedirnos información sobre la miel, ya sea sobre el proceso de
+producción o para compras a pequeña escala o al por mayor. 
+
+Si tienes un proyecto de permacultura cerca del nuestro nos interesaría
+conocerte e intercambiar opiniones.
+
+Y si tienes alguna duda o quieres que escribamos sobre algún tema en concreto no
+dudes en decirlo. 
+
+Te responderemos lo antes posible. Muchas gracias.
+
