@@ -124,18 +124,22 @@ has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.heade
     {% if not truncate %}
       <div class="sharedaddy sd-sharing-enabled">
         <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-          <h3 class="sd-title">{{ 'SHARE'|t }}</h3>
+          <h3 class="sd-title">{{ 'COMPARTE'|t }}</h3>
           <div class="sd-content">
             <ul>
               <li class="share-facebook">
                 <a rel="nofollow" data-shared="sharing-facebook-368" class="share-facebook sd-button share-icon" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"><span>Facebook</span></a>
               </li>
+{#
               <li class="share-twitter">
                 <a rel="nofollow" data-shared="sharing-twitter-368" class="share-twitter sd-button share-icon" href="http://twitter.com/home?status={{ page.title|replace({' ': "%20"}) }}-{{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"><span>Twitter</span></a>
               </li>
+
               <li class="share-google-plus-1">
                 <a rel="nofollow" data-shared="sharing-google-368" class="share-google-plus-1 sd-button share-icon" href="https://plus.google.com/share?url={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"><span>Google</span></a>
               </li>
+#}
+
               <li class="share-pinterest">
                 <a rel="nofollow" data-shared="sharing-pinterest-368" class="share-pinterest sd-button share-icon" href="https://www.pinterest.com/pin/create/button/?url={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"><span>Pinterest</span></a>
               </li>
@@ -154,7 +158,7 @@ has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.heade
 
       {% if not truncate %}
     <div id="jp-relatedposts" class="jp-relatedposts" style="display: block;">
-      <h3 class="jp-relatedposts-headline"><em>{{ 'RELATED_POSTS'|t }}</em></h3>
+      <h3 class="jp-relatedposts-headline"><em>{{ 'ARTÍCULOS RELACIONADOS'|t }}</em></h3>
       <div class="jp-relatedposts-items jp-relatedposts-items-visual">
         {% include 'partials/relatedpages.html.twig' %}
       </div>
