@@ -3,26 +3,15 @@ title: Sobre Nosotros
 fullwidth: true
 body_classes: title_center
 ---
+
 Granja Mandrágora es un proyecto regido por los principios de la permacultura
 que aspira a demostrar que otro modo de vida es posible.
 
 
-Indice
 
-Situación
-El suelo
-Clima
-Temperaturas
-Cultivos
-Calor
-Viento
-Pluviometría
-Microclimas
-Fuego
-Vegetación existente
-Conclusión
-Estrategias
-Situación
+[ui-accordion independent=true open=0]
+
+[ui-accordion-item title="Situación"]
 
 Vivimos en el valle de Guadalest, rodeados por las sierras de Aitana, Serella y
 Jortá. Desde el terreno se contempla perfectamente Aitana, la sierra más alta de
@@ -33,13 +22,13 @@ nosotros, en la ladera oeste del Jortá, a unos 400 metros de altura. El barranc
 de la Font Mayor desemboca justo a nuestra derecha. La ruta circular, que tantos
 senderistas recorren, pasa por delante del terreno.
 
-
 Las vistas son increíbles: cubriendo los pies del valle tenemos el embalse, una
 lámina de piedra turquesa que refleja y sostiene el castillo de Guadalest, a
 Beniardá y al Abdet a lo lejos.
 
+[/ui-accordion-item]
 
-El suelo
+[ui-accordion-item title="El suelo"]
 
 El terreno está marcado por una fuerte pendiente, de incluso un 50% en algunos
 lugares. Si no fuera por los bancales, sería muy difícil transitar por él. No
@@ -58,23 +47,23 @@ El suelo es calcáreo, la tierra blanca, limosa-arcillosa, poco profunda,
 necesitada de materia orgánica y de ayuda para frenar la erosión por medio de
 zanjas de infiltración (swales) o de cualquier otro método para derivar el agua.
 
+[/ui-accordion-item]
 
-Clima
-
+[ui-accordion-item title="Clima"]
 El tipo de clima dominante en la zona, según la clasificación de Papadakis, es
 mediterráneo semiárido, caracterizado por la existencia de inviernos
 relativamente suaves y una estación seca bien definida (junio, julio y agosto).
+[/ui-accordion-item]
 
-
-Temperaturas
+[ui-accordion-item title="Temperaturas"]
 
 La temperatura media anual es de unos 16.5º C, siendo el mes más frío el de
 Enero con una temperatura media mensual de las mínimas de 7.6º C. El mes más
 caluroso es el de Agosto con una temperatura media de las máximas de 29.0º C.
 
+[/ui-accordion-item]
 
-Cultivos
-
+[ui-accordion-item title="Cultivos"]
 Nuestra zona de rusticidad es la 9. La temperatura más baja que hemos sufrido es
 -5ºC. Normalmente en cada invierno sufrimos varias heladas, no muy importantes,
 pero heladas de todos modos. El invierno pasado nos despertamos con Aitana
@@ -90,10 +79,9 @@ manzano o nogal y, sin embargo, debido a las heladas tampoco podemos cultivar
 Al elegir un cultivo tenemos que informamos sobre las variedades, sus
 requerimientos en horas de frio y su resistencia a heladas. Algo que no hicimos
 cuando compramos la pobre lima, que las esta pasando canutas este invierno.
+[/ui-accordion-item]
 
-
-Calor
-
+[ui-accordion-item title="Calor"]
 El verano de 2015, nuestro primer verano en el campo, fue uno de los más caluros
 de la década. Nos pilló de imprevisto, no teníamos nada preparado: ni pérgolas,
 ni zonas de sombra, los arboles aún no están crecidos. Trabajábamos un poco por
@@ -102,9 +90,13 @@ sentados en una silla plegable a la sombra de un pino, sin ni siquiera poder
 respirar, decidimos ir siempre una temporada por delante. Para este año tenemos
 preparadas varias pérgolas, estores y dos muros cerrados con mimbre por los que
 trepa hiedra para dar sombra y humedad.
+[/ui-accordion-item]
 
 
-Viento
+[ui-accordion-item title="Viento"]
+
+
+
 
 Llegó un momento en que construíamos algo y el viento no tardaba ni dos semanas
 en desmontarlo. El avance de la caravana se lo llevó volando una noche,
@@ -117,10 +109,9 @@ viento te sientes desamparado y sólo puedes mirar a tu alrededor, esperando que
 un árbol salga catapultado hacía el espacio. No sólo hablamos de intensidad sino
 también de frecuencia. Desde mediados de otoño a mediados de primavera no hay
 una semana sin algo de viento.
+[/ui-accordion-item]
 
-
-Pluviometría
-
+[ui-accordion-item title="Pluviometría"]
 La precipitación media anual en la zona es de 656.2 l/m². La mitad de estas
 precipitaciones ocurren en tres meses: octubre, noviembre y diciembre. Suelen
 ser lluvias de carácter torrencial; tormentas que descargan gran cantidad de
@@ -136,9 +127,9 @@ almacenamiento de agua se hace en este clima indispensable.
 
 
 En resumen, encharcamiento en invierno y sequía en verano.
+[/ui-accordion-item]
 
-Microclimas
-
+[ui-accordion-item title="Microclimas"]
 Existen dos microclimas principales perfectamente diferenciados: la parte sur
 del terreno y la parte oeste. La parte oeste, la solana, es más calurosa en
 verano y más ventosa en invierno. Básicamente agrava todavía más las, ya de por
@@ -151,10 +142,9 @@ un desahogo.
 
 Por ahora intentamos colocar todos los elementos no vivos en la parte oeste:
 depósitos de agua, garajes, almacenes, etc. que ni sufren ni padecen.
+[/ui-accordion-item]
 
-
-Fuego
-
+[ui-accordion-item title="Fuego"]
 En esta zona el fuego es una realidad palpable. En el verano helicópteros
 practican cómo recoger agua del embalse, por si acaso se inicia un fuego. No
 pasa año sin un susto. Del fuego y el pino carrasco se puede hablar mucho;
@@ -164,26 +154,39 @@ incendios. Pensamos hacer lo mismo con los terrenos colindantes. En el sector
 del fuego nos gustaría hacer un seto alto de madroños para retardarlo en caso de
 incendio.
 
+[/ui-accordion-item]
 
-Vegetación existente
 
+
+
+[ui-accordion-item title="Vegetación existente"]
 Recordemos que en la provincia de Alicante, los pinares de Pinus halepensis
 forman el 80 % de su superficie forestal arbolada. Aquí no somos una
 excepción. Algún olivo, algarrobo y almendro anecdótico, pero, sobre todo
 pino. Es una pena no contar con más árboles productivos. Por otro lado, tenemos
 total libertad a la hora de diseñar. El folio está en blanco.
 
+[/ui-accordion-item]
 
-Conclusión
 
+
+
+[ui-accordion-item title="Conclusión"]
 El clima mediterráneo, en una tierra con una fuerte pendiente, sobreexplotada y
 luego deficientemente reforestada, crea las condiciones perfectas para
 incendios, erosión por fuertes vientos y por lluvias torrenciales. Como
 diseñadores debemos aplicar todas las técnicas concebibles para recuperar esta
 tierra y crear ecosistemas resistentes que cubran nuestras necesidades.
 
+[/ui-accordion-item]
 
-Estrategias
+
+
+
+[ui-accordion-item title="Estrategias"]
+
+
+
 
 Importar materia orgánica
 
@@ -216,3 +219,5 @@ Swales/depósitos de agua.
 Primero infiltrar agua por medio de swales y segundo almacenar agua en
 depósitos. Estas estrategias reducen la necesidad de riego y nos proporcionan
 reservas de agua para la sequía estival.
+[/ui-accordion-item]
+[/ui-accordion]
