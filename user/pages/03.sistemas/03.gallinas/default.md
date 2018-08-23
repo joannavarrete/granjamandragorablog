@@ -57,7 +57,7 @@ pollitos pequeños se suben encima de las cabras para jugar.
 Los huevos y la carne que nos brindan nuestras gallinas están exentos de
 antibióticos y de hormonas. Al estar sueltas por el campo y alimentarse de
 insectos y de hierba consumen menos pienso. El pienso que compramos es
-ecológico. Nos lo distribuye la Cooperativa "Salelles". Aun así estamos
+ecológico. Nos lo vende la Cooperativa "Salelles". Aun así estamos
 trabajando en otras alternativas como por ejemplo: cultivar lenteja de agua en
 estanques, sembrar nuestro propio cereal o alimentarlas con harina de
 algarroba. Para suplir el aporte proteico ya criamos lombrices y mosca negra
