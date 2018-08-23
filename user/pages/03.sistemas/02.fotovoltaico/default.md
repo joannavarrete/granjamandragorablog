@@ -3,6 +3,8 @@ title: Energía fotovoltaica
 body_classes: title_center
 fullwidth: true
 background: 'placas_solares.jpg'
+subscribe: true
+articles: 
 ---
 
 Cuando nos mudamos, en octubre de 2014, vivimos durante un mes sin energía
@@ -64,9 +66,16 @@ Por último, levantamos un pequeño armario para guardar las baterías, el inver
 y el regulador.
  
 
-Detalle inversor Detalle distribuidor Baterías
+[columns count=2 width=200px]
+![Detalle inversor](/images/fotovoltaica/detalle_inversor.jpg)
 
-La energía solar fluctúa. Hay días y noches. Semanas nubladas y rachas de
+
+![Detalle regulador](/images/fotovoltaica/detalle_regulador.jpg)
+
+[/columns]
+
+
+**La energía solar fluctúa**. Hay días y noches. Semanas nubladas y rachas de
 calor. A los seres humanos no nos gustan las fluctuaciones. Nos gusta la
 seguridad. Nos gusta saber que cuando accionemos el interruptor se encenderá la
 bombilla. Y para amortiguar esas fluctuaciones usamos tanto baterías como grupos
@@ -85,26 +94,31 @@ consecuencias: las baterías son tóxicas, ineficientes y tienen una vida útil
 corta. Los grupos electrógenos contaminan y el combustible es cada día más
 caro. Todo tiene sus pros y sus contras.
 
-Hablemos de baterías
+###Hablemos de baterías###
 
 La gente suele estar convencida de que las baterías usadas en los sistemas
 fotovoltaicos tienen una vida que ronda los 10 años. Eso es una verdad a medias,
 y las verdades a medias son peligrosas. Cuando un fabricante indica que un
 modelo de batería tiene una vida útil de 10 años a 25ºC, quiere decir que esa
 batería durará un máximo de 10 años si la dejamos allí, quieta, en flotación,
-preocupándonos de que nunca se descargue y sin utilizarla. Es una información
-totalmente inservible. Mucho más interesante es la vida útil en ciclos.
+preocupándonos de que nunca se descargue y sin utilizarla. **Es una información
+totalmente inservible**. Mucho más interesante es la vida útil en ciclos.
 
-El concepto de ciclo está asociado al de profundidad de descarga (DoD en
+El concepto de ciclo está asociado al de **profundidad de descarga** (DoD en
 ingles). Si descargamos una batería totalmente, al 100%, diremos que hemos
 realizado un ciclo al 100% DoD; si la descargamos al 50%, un ciclo al 50% DoD y
-así sucesivamente. El modelo de batería que usamos en el campo tiene estas vidas
-útiles en función de los ciclos.
+así sucesivamente. 
 
-400 ciclos en descarga 80% DoD 600 ciclos en descarga 50% DoD 1500 ciclos en
-descarga 30% DoD A más profundidad de descarga, menos ciclos soporta. No sólo
-nuestra batería, todas. ¿Qué significa esto? Que tenemos que sobredimensionar el
-sistema de almacenamiento, y sobredimensionarlo mucho, en un factor de 3. Si
+El modelo de batería que usamos en el campo tiene estas vidas útiles en función
+de los ciclos:
+
++ 400 ciclos en descarga 80% DoD 
++ 600 ciclos en descarga 50% DoD 
++ 1500 ciclos en descarga 30% DoD 
+
+**A más profundidad de descarga, menos ciclos soporta**. No sólo
+nuestra batería, todas. ¿Qué significa esto? Que tenemos que **sobredimensionar el
+sistema de almacenamiento**, y sobredimensionarlo mucho, en un factor de 3. Si
 hemos calculado que necesitamos 5kwh de almacenamiento tendremos que adquirir
 15kwh de baterías. Y, ¿por qué son tan ineficientes? Por restricciones
 físico-químicas. Las baterías de litio funcionan mejor: soportan más ciclos y
@@ -118,10 +132,21 @@ dimensionadas; el presupuesto cambió e invertimos ese dinero en otra
 partida. Ahora tenemos un problema, no podemos desechar un juego de baterías
 cada tres años. Eso, ni es sostenible ni económico.
 
+[columns count=2 width=200px]
+
+![Detalle llave de corte](/images/fotovoltaica/detalle_llave_corte.jpg)
+
+![Detalle conexion baterias](/images/fotovoltaica/detalle_conexion_baterias.jpg)
+
+[/columns]
+
 Las posibles soluciones serian:
 
-Adquirir más baterías.  Adquirir un grupo electrógeno.  Esperar a la batería de
-litio de Tesla.  Detalle llave corte baterias Detalle conexion bateria
++ Adquirir más baterías.  
++ Adquirir un grupo electrógeno.  
++ Esperar a la batería de litio de Tesla
+
+
 Imaginemos una bañera llena de agua hasta la mitad. Ahora imaginemos que abrimos
 un poco el grifo; sale agua, la bañera comienza a llenarse. Sacamos el tapón del
 desagüe, el agua se va por la cañería. Nos damos cuenta de que la bañera se
@@ -132,8 +157,7 @@ Los humanos tendemos a centrarnos en los flujos entrantes, la mayoría, actuando
 por instinto, abriría el grifo. Unos pocos se darán cuenta de que cerrar el
 desagüe es igual de efectivo, o incluso más.
 
-Siempre cuesta más generar energía que ahorrarla, igual que cuesta más ganar
-dinero que ahorrarlo.
+>Siempre cuesta más generar energía que ahorrarla, igual que cuesta más ganar dinero que ahorrarlo.
 
 ¿Por qué os cuento esto? Nuestra solución al problema de las baterías: gastar
 menos energía. Nos hemos comprometido a sólo utilizar los aparatos eléctricos
@@ -159,23 +183,24 @@ Un caso de éxito: la chimenea
 En nuestro primer diciembre aquí, ya instalado el sistema fotovoltaico, probamos
 un radiador a luz, de gel, de calor azul. Fue un fracaso, ciclaba las baterías
 al 100%. Las dejaba secas. Este invierno hemos comprado una pequeña estufa de
-hierro fundido que nos mantiene calientes, consume combustibles renovables,
-nuestro exceso de leña, es eficiente, y nos costó barata.
+hierro fundido que nos mantiene calientes. Consume combustibles renovables:
+nuestro exceso de leña. Es eficiente y nos costó barata.
 
 Otras alternativas que queremos probar son la cocina y los calentadores de agua
 solares.
 
 * * *
 
-El inversor.
+###Hablemos de inversores###
 
 Las baterías almacenan la energía eléctrica a 12V, los aparatos eléctricos la
 consumen a 220V, así que necesitamos convertirla. Para eso está el
 inversor. Nuestro inversor tiene una salida nominal de 3000W. Es un buen
 inversor, nunca hemos sobrepasado la potencia. Nos permite trabajar con máquinas
 como la radial y el motopico y eso es importante en el campo. Creo que uno de
-2000W también nos hubiera venido bien. Por cierto, los inversores tienen una
+2000W también nos hubiera valido. Por cierto, los inversores tienen una
 vida media de unos 10 años. Tampoco son renovables.
+
 
 En definitiva, resolver los problemas energéticos de la granja, así como los de
 la humanidad requiere repensar los estándares y formas de vida, requiere cambios

@@ -68,6 +68,11 @@
                 {% endfor %}
               <hr class="rescue-spacing " style="height: 30px">
               {% endif %}
+
+              {% if page.header.subscribe  %}
+               {% include 'partials/mailchimp.html.twig' %}              
+              {% endif %}
+              
           </div>
         </article>
       </main>
