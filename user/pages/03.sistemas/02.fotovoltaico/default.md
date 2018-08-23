@@ -73,7 +73,6 @@ y el regulador.
 
 [/columns]
 
-
 **La energía solar fluctúa**. Hay días y noches. Semanas nubladas y rachas de
 calor. A los seres humanos no nos gustan las fluctuaciones. Nos gusta la
 seguridad. Nos gusta saber que cuando accionemos el interruptor se encenderá la
