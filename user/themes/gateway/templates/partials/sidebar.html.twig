@@ -25,10 +25,12 @@
 <aside class="widget widget_recent_entries">
 	<h1 class="widget-title">Últimos Articulos</h1>
   <ul>
-{% for post in page.find('/blog').children.order('date', 'desc').slice(0, 5) %}
+    {% for post in page.find('/blog').children.order('date', 'desc').slice(0, 5) %}
+    {% if post.published %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
+    {% endif %}
 {% endfor %}
 </ul>
 </aside>
@@ -38,7 +40,8 @@
     <h1 class="widget-title">Suscríbete</h1>
     <ul>
       <li><a href="{{ feed_url }}.atom">Atom 1.0</a></li>
-      <li><a href="{{ feed_url }}.rss">RSS</a></li>
+      <li><a href="{{ feed_url }}.rss">RSS</a></li>      
     </ul>
+
 </aside>
 {% endif %}
