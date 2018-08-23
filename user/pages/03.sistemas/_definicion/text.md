@@ -8,17 +8,12 @@
 
 ###Échale un ojo a nuestros sistemas {.text_center}
 
-[columns count=3 width=200px]
+[columns count=3 width=100px]
+[![Gallo Posando](/images/backgrounds/gallo_posando.jpg)](/sistemas/gallinas)
 
 [![Abejas](/images/abejas/abejas_en_cuadro.jpg)](/sistemas/apicultura)
 
-
 [![Placas Solares](/images/backgrounds/placas_solares.jpg)](/sistemas/fotovoltaico)
-
-
-[![Patron Gallina](/images/backgrounds/patron_gallina.jpg)](/sistemas/gallinas)
-
-
 [/columns]
 
 
