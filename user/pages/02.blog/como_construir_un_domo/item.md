@@ -5,6 +5,7 @@ date: '28-07-2018 19:31'
 publish_date: '28-07-2018 19:31'
 author: Joan Navarrete
 body_classes: single single-post single-format-standard group-blog
+featured_image: domo_terminado.jpg
 
 taxonomy:
     category:

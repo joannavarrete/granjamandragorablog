@@ -53,7 +53,7 @@ form:
 Contacta con nosotros si quieres conocernos. Vente a la granja y pasa un rato
 con nosotros. 
 
-Nos Puedes pedirnos información sobre la miel, ya sea sobre el proceso de
+Nos puedes pedir información sobre la miel, ya sea sobre el proceso de
 producción o para compras a pequeña escala o al por mayor. 
 
 Si tienes un proyecto de permacultura cerca del nuestro nos interesaría

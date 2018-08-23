@@ -1,26 +1,33 @@
 
 <style type="text/css" id="rescue_custom_css">
-.home-header-bg {
-   background:url('{{ theme_url }}/img/{{ site.header.background }}' ) #ffffff no-repeat center center fixed;
+  .home-header-bg {
+   background:url('{{ page.find('/images/backgrounds/').media[site.header.background].url }}' ) #ffffff no-repeat center center fixed;
   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.outer-header{
+    background: rgba(96, 96, 96, 0.3);
+      -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 /* for background-size:cover replacement on iOS devices */
 @media only screen and (max-width: 40em) {
-  .home-header-bg {
+  .home-header-bg .outer-header {
     background-attachment: scroll;
   }
 }
 @media only screen and (orientation: portrait) and (device-width: 320px), (device-width: 768px) {
-  .home-header-bg {
+  .home-header-bg .outer-header{
     -webkit-background-size: auto 150%;
     background-attachment: scroll;
   }
 }
 @media only screen and (orientation: landscape) and (device-width: 320px), (device-width: 768px) {
-  .home-header-bg {
+  .home-header-bg .outer-header{
     -webkit-background-size: 150% auto;
     background-attachment: scroll;
   }
@@ -37,6 +44,7 @@
 </style>
 
 <div class="home-header-bg clearfix">
+  <div class="outer-header clearfix">
   <div class="site-branding">
     <a href="{{ base_url_absolute }}">
       <img class="logo" src="{{ theme_url }}/img/{{ site.logo }}" alt="{{ site.logo }}"></a>
@@ -58,4 +66,5 @@
         </div>
       </div>
     </div>
+  </div>
   </div>

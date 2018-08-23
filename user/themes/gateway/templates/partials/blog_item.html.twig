@@ -1,9 +1,13 @@
 <article {% if loop.index %}id="post-{{ loop.index }}"{% endif %} class="clearfix {% if loop.index %}post-{{ loop.index }}{% endif %} post type-post format-standard 
 has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.header.post_class }}{% endif %}{% endif %} hentry category-featured">
 
- {% if truncate %}
-  <div class="featured-image">
-    {{ page.media.images|first.cropZoom(356,356).html }}
+  {% if truncate %}
+ <div class="featured-image">
+   {% if page.header.featured_image %}
+   {{ page.media[page.header.featured_image].cropZoom(356,356).html }}
+    {% else %}
+   {{ page.media.images|first.cropZoom(356,356).html }}
+    {% endif %}
   </div>
   {% endif %}
 
@@ -117,16 +121,18 @@ has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.heade
         {% endfor %}
       <hr class="rescue-spacing " style="height: 30px">
       {% endif %}
-      {% set show_prev_next = true %}
-
-      
+      {% set show_prev_next = true %}      
     {% endif %}
 
       
       {% if not truncate %}
-      <div class="sharedaddy sd-sharing-enabled">
+      <div class="mailchimp">
         {% include 'partials/mailchimp.html.twig' %}
       </div>
+    {% endif %}
+
+
+      {% if not truncate %}
       <div class="sharedaddy sd-sharing-enabled">
         <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
           <h3 class="">{{ 'COMPARTE'|t }}</h3>
@@ -179,18 +185,21 @@ has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.heade
     </span>
     <span class="right">
       {% if not truncate %}
-        {% if page.taxonomy.tag %}
+      {% if page.taxonomy.tag %}
+      <div class="tagcloud">
         <span class="tags-links">
           {% for tag in page.taxonomy.tag %}
             <a href="{{ base_url }}/tag{{ config.system.param_sep }}{{ tag }}">{{ tag|capitalize }}{% if not loop.last %},{% endif %}</a>
           {% endfor %}
         </span>
+          </div>
         {% endif %}
       {% endif %}
     </span>
   </footer>
 </article>
 
+{#
 {% if show_prev_next %}
 <nav class="navigation post-navigation clearfix" role="navigation">
   <h1 class="screen-reader-text">Post navigation</h1>
@@ -200,12 +209,13 @@ has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.heade
   </div>
 </nav>
 {% endif %}
+#}
 
 {% if not truncate %}
   {% if config.plugins.jscomments.enabled and config.plugins.jscomments.provider %}
-  <div class="comments-area-wrapper">
+  <div class="comments-area-wrapper" id="comments">
     <div class="comments-area">
-    <h2 class="comments-title">Comments:</h2>
+    <h2 class="comments-title">Comentarios:</h2>
       {{ jscomments(config.plugins.jscomments.provider) }}
     </div>
   </div>

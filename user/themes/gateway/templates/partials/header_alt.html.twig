@@ -1,7 +1,11 @@
 
 <style type="text/css" id="rescue_custom_css">
-.bg-image-header {
-  background:url( '{{ theme_url }}/img/{{ site.header.background }}' ) center bottom #ffffff;
+  .bg-image-header {
+      {% if page.header.background %}      
+      background:url( '{{ page.find('/images/backgrounds/').media[page.header.background].url }}' ) center bottom #ffffff;
+      {% else %}
+      background:url( '{{ page.find('/images/backgrounds/').media[site.header.background].url }}' ) center bottom #ffffff;
+      {% endif %}
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -18,12 +22,21 @@
   display: table;
   padding-top: 9em;
 }
+.outer-header{
+    background: rgba(96, 96, 96, 0.3);
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 </style>
 
 <div class="bg-image bg-image-header bg-center-center">
+    <div class="outer-header clearfix">
   <div class="site-branding">
     <a href="{{ base_url_absolute }}">
       <img class="logo" src="{{ theme_url }}/img/{{ site.logo }}" alt="{{ site.logo }}">
     </a>
   </div>
+    </div>
 </div>

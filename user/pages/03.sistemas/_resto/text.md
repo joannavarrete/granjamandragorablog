@@ -3,7 +3,7 @@ title: Sistemas
 body_classes: title_center
 fullwidth: true
 ---
-
+---
 **¿Qué es un sistema?**
 
 Un sistema es una colección de cosas interconectadas de tal manera que producen

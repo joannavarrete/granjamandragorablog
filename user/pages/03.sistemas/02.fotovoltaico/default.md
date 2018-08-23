@@ -2,6 +2,7 @@
 title: Energía fotovoltaica
 body_classes: title_center
 fullwidth: true
+background: 'placas_solares.jpg'
 ---
 
 Cuando nos mudamos, en octubre de 2014, vivimos durante un mes sin energía
@@ -61,11 +62,6 @@ firmes. Yo diría que están mejor que en un suporte comercial.
 
 Por último, levantamos un pequeño armario para guardar las baterías, el inversor
 y el regulador.
-
-Me gusta trabajar con las manos, me viene de mi padre. Aparte de sentirme útil,
-creativo y realizado, ahorro con ello, ya sea arreglando la furgoneta o
-construyendo un depósito de agua.
-
  
 
 Detalle inversor Detalle distribuidor Baterías

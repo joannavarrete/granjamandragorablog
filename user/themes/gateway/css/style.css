@@ -450,7 +450,7 @@ section.top-bar-section .dropdown li.title h5 a {
 }
 
 .page-template-template-home-php .site-content hr {
-  margin: 8em 0;
+  margin: 5em 0;
 }
 
 .page-template-template-home-php .featured-posts article.hentry {
@@ -578,9 +578,14 @@ html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]
 /*--------------------------------------------------------------
 9.1 Posts
 --------------------------------------------------------------*/
+.mailchimp{
+  margin-bottom: 3em;
+}
+/*
 article.hentry {
   margin: 0 0 8em 0;
 }
+*/
 article.sticky {
   padding: 4em;
   background-color: #f7fbff;

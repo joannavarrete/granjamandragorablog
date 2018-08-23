@@ -12,6 +12,8 @@ content:
             - _definicion
             - _articulos
             - _resto
+            - _suscribete
+            
 ---
 [owl-carousel][/owl-carousel]
 
