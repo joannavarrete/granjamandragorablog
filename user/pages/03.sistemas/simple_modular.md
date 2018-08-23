@@ -15,5 +15,4 @@ content:
             - _suscribete
             
 ---
-[owl-carousel][/owl-carousel]
 

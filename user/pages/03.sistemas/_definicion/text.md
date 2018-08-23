@@ -6,5 +6,23 @@
 
 ---
 
+###Échale un ojo a nuestros sistemas {.text_center}
+
+[columns count=3 width=200px]
+
+[![Abejas](/images/abejas/abejas_en_cuadro.jpg)](/sistemas/apicultura)
+
+
+[![Placas Solares](/images/backgrounds/placas_solares.jpg)](/sistemas/fotovoltaico)
+
+
+[![Patron Gallina](/images/backgrounds/patron_gallina.jpg)](/sistemas/gallinas)
+
+
+[/columns]
+
+
+---
+
 ### Últimos artículos sobre sistemas {.text_center}
 
