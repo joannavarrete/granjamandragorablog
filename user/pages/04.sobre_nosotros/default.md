@@ -4,8 +4,26 @@ fullwidth: true
 body_classes: title_center
 ---
 
-Granja Mandrágora es un proyecto regido por los principios de la permacultura
-que aspira a demostrar que otro modo de vida es posible.
+Esto no es una granja. Todavía no. Es un proyecto. Un sueño. Una determinación
+de vivir de acuerdo a ciertos principios. Pero todavía no es una granja. Lo
+mismo nunca lo será.
+
+En 2014 dejamos nuestros trabajos para irnos a vivir al campo. Nuestra forma de
+solucionar la crisis en la que esta sumida la raza humana y consigo todo el
+planeta. Una crisis que no entendemos muy bien, no llegamos a comprender
+completamente ni sus causas ni sus consecuencias, pero sentimos que la vida que
+lleva la mayoría de la gente, la vida moderna, con su consumismo y su
+materialismo, no es una vida plena.
+
+Vivir con poco, ser felices y regenerar la bioesfera. Nuestros objetivos se
+podrían resumir así.
+
+---
+
+
+## La Granja {.text_center}
+### Descripción del terreno {.text_center}
+
 
 
 
@@ -87,9 +105,7 @@ de la década. Nos pilló de imprevisto, no teníamos nada preparado: ni pérgol
 ni zonas de sombra, los arboles aún no están crecidos. Trabajábamos un poco por
 las mañanas y luego, las tardes, las pasábamos en el embalse, bañándonos. Allí,
 sentados en una silla plegable a la sombra de un pino, sin ni siquiera poder
-respirar, decidimos ir siempre una temporada por delante. Para este año tenemos
-preparadas varias pérgolas, estores y dos muros cerrados con mimbre por los que
-trepa hiedra para dar sombra y humedad.
+respirar, decidimos ir siempre una temporada por delante. 
 [/ui-accordion-item]
 
 
