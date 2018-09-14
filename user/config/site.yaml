@@ -5,16 +5,16 @@ author:
   copyright: "Copyright 2018 Granja Mandrágora. Todos los derechos reservados"
 
 # Logo must be uploaded to theme's img folder.
-logo: logo.png
+logo: logo_bn_pq.png
 header:
   title: Permacultura Mediterránea
   description: Granja Mandrágora es un proyecto regido por los principios de la permacultura que aspira a demostrar que otro modo de vida es posible.
 
   background: 'abejas_en_cuadro.jpg'
-  buttons:
-    - text: Seguir Explorando
-      url: "#home_posts"
-      class: button radius
+#  buttons:
+#    - text: Seguir Explorando
+#      url: "#home_posts"
+#      class: button radius
 
 social:
   - url: 'https://twitter.com/getgrav'
