@@ -6,6 +6,8 @@ background: abejas_en_cuadro.jpg
 subscribe: true
 ---
 
+<!--
+This is a comment
 
 Las abejas se extinguen. O eso escuche el otro día que decían. No me extrañaría
 que fuera verdad. Pero, cuando estoy en el apiario, acachado frente a la piquera, fijandome a ver si
@@ -69,4 +71,4 @@ pesticidas.
 Desde aqui os pediria que os pareis un momento y que nos ayudeis. Que intenteis cambiar un poquito el mundo.
 
 A lo mejor si empezamos asi no nos extinguimos. 
-
+-->
