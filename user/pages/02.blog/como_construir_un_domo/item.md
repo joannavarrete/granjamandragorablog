@@ -14,7 +14,7 @@ taxonomy:
     tag:
         - 'domo geodesico'
         - gallinero
-    featured: true
+
 ---
 Los domos están de moda. Es normal, son estructuras ligeras, resistentes, tremendamente estables contra el viento y faciles de montar. Nosotros como no queriamos ser menos, cuando nos encontramos con este montón de retales de tubos el otro día, pensamos en construirnos uno.
 
