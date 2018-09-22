@@ -17,11 +17,11 @@ header:
 #      class: button radius
 
 social:
-  - url: 'https://twitter.com/getgrav'
-    icon: 'twitter'
+#  - url: 'https://twitter.com/getgrav'
+#    icon: 'twitter'
   - url: 'https://www.facebook.com/granjamandragora/'
     icon: 'facebook'
-  - url: 'http://www.vimeo.com'
+  - url: 'https://vimeo.com/channels/1407147'
     icon: 'vimeo-square'
   - url: 'https://www.pinterest.es/mandragorafarm/'
     icon: 'pinterest'
