@@ -1,4 +1,5 @@
 ---
+background: 'Guadalest.jpg'
 title: Contacto
 form:
     name: my-nice-form

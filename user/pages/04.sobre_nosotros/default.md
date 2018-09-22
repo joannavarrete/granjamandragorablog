@@ -2,7 +2,12 @@
 title: Sobre Nosotros
 fullwidth: true
 body_classes: title_center
+background: 'Guadalest.jpg'
 ---
+
+
+[columns count=2 width=200px]
+![Nostros con las colmenas](/images/nosotros/los_dos_con_las_colmenas.jpg)
 
 Esto no es una granja. Todavía no. Es un proyecto. Un sueño. Una determinación
 de vivir de acuerdo a ciertos principios. Pero todavía no es una granja. Lo
@@ -15,8 +20,14 @@ completamente ni sus causas ni sus consecuencias, pero sentimos que la vida que
 lleva la mayoría de la gente, la vida moderna, con su consumismo y su
 materialismo, no es una vida plena.
 
-Vivir con poco, ser felices y regenerar la bioesfera. Nuestros objetivos se
-podrían resumir así.
+[/columns]
+
+&nbsp;
+
+####Vivir con poco, ser felices y regenerar la bioesfera. Nuestros objetivos se podrían resumir así.
+
+
+
 
 ---
 
