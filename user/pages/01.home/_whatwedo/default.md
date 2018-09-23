@@ -1,6 +1,6 @@
 ---
 vimeo:
-  src: https://player.vimeo.com/video/285996615
+  src: https://vimeo.com/291350275
   width: 570
   height: 321
 class: home-content
@@ -10,6 +10,8 @@ buttons:
       class: button radius
 ---
 
-### Inspeccionando las abejas
+### Las abejas recolectando algarrobo en la mielada de otoño
 
-German inspeccionando las colmenas para ver como estan pasando el verano.
+La primera fuente importante de polen y nectar para las abejas despúes de la sequía de verano es el algarrobo. Con esta mielada las abejas se preparan para recibir el romero, tomillo, brezo y demás plantas con las que harán sus reservas de miel para el invierno.
+
+Si hay exceso os podremos ofrecer esta miel dentro de un mes y medio aproximadamente.
