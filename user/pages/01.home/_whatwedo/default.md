@@ -1,6 +1,6 @@
 ---
 vimeo:
-  src: https://vimeo.com/291350275
+  src: https://player.vimeo.com/video/291350275
   width: 570
   height: 321
 class: home-content
