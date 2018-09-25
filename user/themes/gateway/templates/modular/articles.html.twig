@@ -1,8 +1,22 @@
-{% set sistemas = taxonomy.findTaxonomy({'category':page.header.category})  %}
-{% if sistemas %}
+<div id="home_posts" class="home_posts_titles">
+  <div class="row">
+    <div class="large-12 columns">
+      {{ page.content }}
+    </div>
+  </div>
+</div>
+
+{% if  page.header.category%}
+ {%set articles = taxonomy.findTaxonomy({'category':page.header.category})  %}
+{% elseif page.header.featured %}
+{% set articles = page.collection({'items':{'@taxonomy.featured': true},'order': {'by': 'date', 'dir': 'desc'}}) %}
+{% endif %}
+
+
+{% if articles %}
 <div class="featured-posts">
       <div class="row">
-        {% for row in sistemas|slice(0,3) %}
+        {% for row in articles|slice(0,3) %}
         <div class="large-4 columns">
           {% include 'partials/blog_item.html.twig' with {'page':row, 'truncate':true, 'readmore': false} %}
         </div>
