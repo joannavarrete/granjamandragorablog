@@ -38,9 +38,4 @@ routes:
   /another/one/here: '/blog/sample-3'       # Another alias for /blog/sample-3
   /new/*: '/blog/*'                         # Wildcard any /new/my-page URL to /blog/my-page Route
 
-footer:
-  widget:
-    title: Sobre Granja Mandrágora
-    description: Granja Mandrágora es un proyecto regido por los principios de la permacultura que aspira a demostrar que otro modo de vida es posible.
-    link:
-copyright: ""
+

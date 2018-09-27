@@ -7,8 +7,8 @@
 {% block content %}
     {{ page.content }}
     <div id="content">
-        {% for module in page.collection() %}
-                {{ module.content }}
-        {% endfor %}
+      {% for module in page.collection() %}
+         {{ module.content }}
+      {% endfor %}
     </div>
 {% endblock %}

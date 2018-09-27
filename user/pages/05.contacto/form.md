@@ -1,8 +1,11 @@
 ---
 background: 'Guadalest.jpg'
+fullwidth: true
 title: Contacto
 form:
+    classes: 'contact-form'
     name: my-nice-form
+    id: 'contact-form'
     fields:
         - name: name
           label: Nombre
@@ -40,15 +43,15 @@ form:
             to:
               - "{{ config.plugins.email.from }}"
               - "{{ form.value.email }}"
-            subject: "[Feedback] {{ form.value.name|e }}"
+            subject: "[contacto] {{ form.value.name|e }}"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
-            fileprefix: feedback-
+            fileprefix: contact-
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
         - message: Muchas gracias por contactarnos
-        - display: thankyou
+        - display: gracias
 ---
 
 Contacta con nosotros si quieres conocernos. Vente a la granja y pasa un rato

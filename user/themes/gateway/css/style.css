@@ -105,6 +105,8 @@ pre {
   margin: 0 auto;
 }
 
+
+
 /*--------------------------------------------------------------
 3.0 Accessibility
 --------------------------------------------------------------*/
@@ -520,6 +522,31 @@ html input[type="button"], input[type="reset"], input[type="submit"], button[typ
 html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, button[type="submit"]:hover {
   background-color: #555555;
 }
+
+#contact-form .form-field:nth-child(1) {
+    display: inline;
+    float: left;
+    width: 50%;
+}
+
+#contact-form .form-field:nth-child(2) {
+    display: inline;
+    float: left;
+    width: 50%;
+}
+
+#contact-form .form-field:nth-child(3) {
+
+}
+
+.thankyou .sc-columns{
+    padding-left: 10em;
+}
+
+.contact-padding-bottom{
+    padding-bottom: 2em;
+}
+                    
 
 /*--------------------------------------------------------------
 9.0 Content
@@ -1010,11 +1037,11 @@ footer .textwidget a:hover i {
 --------------------------------------------------------------*/
 .footer-wrap {
   background-color: #303030;
-  margin-top: 8em;
+/*--  margin-top: 8em;---*/
 }
 
 footer {
-  margin: 4em 0 0 0;
+    /*--    margin: 4em 0 0 0;---*/
   font-size: 1rem;
 }
 footer p, footer a {
@@ -1055,3 +1082,4 @@ footer .widget-title {
 footer .textwidget {
   color: #FFFFFF;
 }
+

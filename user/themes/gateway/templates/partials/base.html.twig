@@ -17,6 +17,7 @@
         {% do assets.addCss('theme://css/style.css') %}
         {% do assets.addCss('theme://genericons/genericons.css') %}
         {% do assets.addCss('theme://css/jetpack.css') %}
+        {% do assets.addCss('theme://css/woo.css') %}
     {% endblock %}
 
     {{ assets.css() }}
@@ -53,7 +54,7 @@
         </div>
 
         {% block footer %}
-          {% include 'partials/footer.html.twig' %}
+          {% include 'partials/woo-footer.html.twig' %}
         {% endblock %}
     </div>
 

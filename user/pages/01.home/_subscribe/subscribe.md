@@ -1,9 +1,7 @@
-<section id="subscribe">
-
 <div class="row section-head">
 <div class="twelve columns" markdown="1">
-  <h1>Suscríbete a nuestra lista de correo</h1>
-<p>Te mantendremos informado de las noticias de la Granja</p>
+  #Suscríbete a nuestra lista de correo
+Te mantendremos informado de las noticias de la Granja
 </div>
 </div>
 
@@ -28,4 +26,3 @@
 </div>
 
 </div>
-</section>

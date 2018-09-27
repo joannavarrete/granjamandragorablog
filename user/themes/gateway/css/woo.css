@@ -1,0 +1,157 @@
+#subscribe {
+   background: #23292F;
+   padding-top: 2em;
+   padding-bottom: 2em;
+   overflow: hidden;
+   text-align: center;
+}
+
+#subscribe a, #subscribe a:visited  { color: #fff; }
+#subscribe a:hover, #subscribe a:focus { color: #11ABB0; }
+
+#subscribe small  { font-size:80% }
+
+#subscribe h1 { color: #fff; }
+#subscribe p {
+   color: #7A7A7A;
+   text-align: center;
+   padding: 0;
+}
+
+/* mailchimp signup form */
+#mc_embed_signup {
+   background: none;
+   clear: both;
+   display: block;
+   margin: 6px auto 30px auto;
+   width: 70%;
+  	text-align: center;   
+}
+#mc_embed_signup:before,
+#mc_embed_signup:after {
+    content: " ";
+    display: table;
+}
+#mc_embed_signup:after {
+    clear: both;
+}
+#mc_embed_signup input[type="submit"] {
+   float: right;
+   height: 60px;
+   margin: 0;
+   padding: 0 20px;
+   font-size: 25px;
+   line-height: 60px;
+   width: 47%;  
+}
+#mc_embed_signup input[type="email"] {
+   display: inline;
+   float: left;
+   height: 60px;
+   margin: 0;
+   padding: 18px 20px;
+   font-size: 18px;
+   line-height: 24px;
+   font-family: 'montserrat-regular',sans-serif;
+   width: 47%;  
+   text-align: center;
+}
+
+/* ------------------------------------------------------------------ */
+/* j. Footer
+/* ------------------------------------------------------------------ */
+
+.woo-footer {
+   padding: 5em 0em 10em 0em;
+   color: #3c4753;
+   font-size: 13px;
+   line-height: 24px;
+   position: relative;
+   background: #181d21;
+}
+
+.woo-footer a, .woo-footer a:visited { color: #0A6567; }
+.woo-footer a:hover, .woo-footer a:focus { color: #fff; }
+
+.woo-footer .info { padding-right: 90px; }
+
+.woo-footer .woo-footer-logo  {
+    margin: 0 auto;
+    width: 150px;
+
+}
+.woo-footer ..woo-footer-logo a img {
+   height: 24px;
+   width: 92px;
+}
+
+.woo-footer .right-cols .columns {
+   padding-right: 5px;
+   padding-left: 5px;
+   width: 33.33333%; ;
+}
+.woo-footer .right-cols .columns p { margin-bottom: 6px; }
+
+.woo-footer h3 {
+   font: 13px/24px 'opensans-semibold', sans-serif;
+   margin-bottom: 0;
+   font-weight: normal;
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+.woo-footer h3:before {
+   font-family: 'FontAwesome';   
+	margin: 0 0 6px 3px;
+	font-size: 30px;
+   line-height: 48px;
+   text-align: left;
+   color: #738291;
+   display: block;
+}
+.woo-footer h3.address:before { content: "\f041"; }
+.woo-footer h3.social:before { content: "\f0c0"; }
+.woo-footer h3.contact:before { content: "\f0e0"; }
+
+.woo-footer ul {
+   margin: 0;
+   padding: 0;
+}
+.woo-footer ul li {
+   margin: 0;
+   line-height: 24px;
+}
+.woo-footer ul li a,
+.woo-footer ul li a:visited { color: #3c4753; }
+.woo-footer ul li a:hover,
+.woo-footer ul li a:focus { color: #fff; }
+
+
+
+/* column widths 
+.woo-footer .row .one         { width: 8.33333%; }
+.woo-footer .row .two         { width: 16.66667%; }
+.woo-footer .row .three       { width: 25%; }
+.woo-footer .row .four        { width: 33.33333%; }
+.woo-footer .row .five        { width: 41.66667%; }
+.woo-footer .row .six         { width: 50%; }
+.woo-footer .row .seven       { width: 58.33333%; }
+.woo-footer .row .eight       { width: 66.66667%; }
+.woo-footer .row .nine        { width: 75%; }
+.woo-footer .row .ten         { width: 83.33333%; }
+.woo-footer .row .eleven      { width: 91.66667%; }
+.woo-footer .row .twelve      { width: 100%; }
+
+*/
+
+.woo-footer .alignleft{
+    padding-left: 5em;
+}
+.woo-footer ul {
+    list-style: none outside;
+}
+
+.woo-footer-logo-text{
+    margin: 0em 3em 0em 3em;
+}
+
