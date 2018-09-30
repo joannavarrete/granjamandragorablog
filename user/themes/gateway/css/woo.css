@@ -155,3 +155,71 @@
     margin: 0em 3em 0em 3em;
 }
 
+/* FEATURES */
+
+#features {
+   background: #fff;
+   overflow: hidden;
+   padding-right: 1em;
+   
+}
+#features .feature {
+   margin-top: 2em;
+   margin-bottom: 2.5em;
+}
+#features .right {
+   padding-left: 2em;
+   float: right;   
+}
+#features .left {
+   padding-right: 2em;
+   float: left;   
+}
+#features h3 {
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   color: #222;
+}
+.fluid-video-wrapper { margin-top: 0.5em; }
+
+/*call to action */
+
+#call-to-action {
+   background: #23292F;
+   padding-top: 5em;
+   padding-bottom: 3em;
+}
+#call-to-action h1 {
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   color: #fff;
+}
+#call-to-action h1 span { display: none; }
+#call-to-action .header-col h1:before {
+   font-family: 'FontAwesome';
+   content: "\f093";
+	padding-right: 0.5em;
+	font-size: 5rem;
+   float: right;
+   color: #EBEEEE;  
+}
+#call-to-action .action { margin-top: 2em; }
+#call-to-action .action .button { text-align: center; }
+#call-to-action h2 {
+   color: #EBEEEE;
+   margin-bottom: 0.5em;
+}
+#call-to-action h2 a {
+   color: inherit;
+}
+#call-to-action p {
+   color: #697B8B; 
+   padding-right: 0.5em; 
+}
+#call-to-action p span {
+	color: #A9B5C0;
+}
+
+
+
+

@@ -1,12 +1,12 @@
 <section id="call-to-action">
     <div class="row">
-        <div class="two columns header-col">
+        <div class="large-2 columns header-col">
             <h1><span>{{ page.header.title }}</span></h1>
         </div>
-        <div class="seven columns">
+        <div class="large-7 columns">
             {{ content }}
         </div>
-        <div class="three columns action">
+        <div class="large-3 columns action">
             {% for button in page.header.buttons %}
                 <a href="{{ button.url }}" class="button">{{ button.text }}</a>
             {% endfor %}
