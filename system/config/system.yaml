@@ -45,7 +45,7 @@ pages:
     page: true                                   # Enable page level events
     twig: true                                   # Enable Twig level events
   markdown:
-    extra: true                                 # Enable support for Markdown Extra support (GFM by default)
+    extra: false                                 # Enable support for Markdown Extra support (GFM by default)
     auto_line_breaks: false                      # Enable automatic line breaks
     auto_url_links: false                        # Enable automatic HTML links
     escape_markup: false                         # Escape markup tags into entities
@@ -86,7 +86,7 @@ cache:
 
 twig:
   cache: true                                    # Set to true to enable Twig caching
-  debug: false                                    # Enable Twig debug
+  debug: true                                    # Enable Twig debug
   auto_reload: true                              # Refresh cache on changes
   autoescape: false                              # Autoescape Twig vars (DEPRECATED, always enabled in strict mode)
   undefined_functions: true                      # Allow undefined functions
