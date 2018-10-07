@@ -54,7 +54,7 @@ form:
         - display: gracias
 ---
 
-Contacta con nosotros si quieres venir a conocernos. 
+
 
 ####Reserva aquí tu miel para la siguiente temporada o nucleos de abejas para la primavera.
   

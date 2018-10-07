@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blog - Últimas Noticias de la Granja Mandragora
 blog_url: blog
 menu: Blog
 body_classes: blog group-blog infinite-scroll

@@ -1,7 +1,23 @@
 ---
 title: Get Hosting.         
+images:
+  - folder: /images/abejas/
+    name: primer_plano_apiario.jpg
+  - folder: /images/abejas/
+    name: german_levantando_cuadro.jpg
+  - folder: /images/abejas/
+    name: nucleo_abierto.jpg
+  - folder: /images/abejas/
+    name: cuadro_puesta_primer_plano.jpg
+  - folder: /images/abejas/
+    name: piquera_nucleo_abeja.jpg
+  - folder: /images/abejas/
+    name: nucleo_caballera.jpg
+  - folder: /images/abejas/
+    name: german_inspeccionando_cuadros.jpg
+  - folder: /images/abejas/
+    name: cuadro_reina_encerrada_4.jpg
+
 ---
-#Product Screenshots.
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+
+#FOTOGRAFÍA{.text-center}

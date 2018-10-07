@@ -1,0 +1,19 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block footer %}
+    {{ parent() }}
+    <script type="text/javascript"
+    id="snipcart"
+    src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
+    data-api-key="{{ header.snipcart.api_key }}"></script>
+{% endblock %}
+
+{% block header_extra %}
+    {% include 'partials/snipcart_cart.html.twig' %}
+{% endblock %}
+
+{% block content %}
+    {% if config.plugins.breadcrumbs.enabled %}
+        {% include 'partials/breadcrumbs.html.twig' ignore missing %}
+    {% endif %}
+{% endblock %}

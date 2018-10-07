@@ -1,10 +1,7 @@
 {% extends 'partials/base.html.twig' %}
 
-{% block header %}
-  {% include 'partials/header.html.twig' %}
-{% endblock %}
-
 {% block content %}
+ {{ dump(page.header) }} 
     {{ page.content }}
     <div id="content">
       {% for module in page.collection() %}

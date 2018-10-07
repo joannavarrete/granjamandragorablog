@@ -4,7 +4,10 @@
       {% if page.header.background %}      
       background:url( '{{ page.find('/images/backgrounds/').media[page.header.background].url }}' ) center bottom #ffffff;
       {% else %}
+       
       background:url( '{{ page.find('/images/backgrounds/').media[site.header.background].url }}' ) center bottom #ffffff;
+      {{ dump(site.header.background) }}
+      
       {% endif %}
   -webkit-background-size: cover;
   -moz-background-size: cover;

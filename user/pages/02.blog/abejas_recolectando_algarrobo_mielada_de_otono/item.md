@@ -1,0 +1,34 @@
+---
+title: Las abejas recolectando algarrobo en la mielada de otoño
+published: true
+date: '2018-09-26'
+publish_date: '2018-09-26'
+author: Joan Navarrete
+body_classes: single single-post single-format-standard group-blog
+
+taxonomy:
+    category:
+        - sistemas
+        - apicultura
+    tag:
+        - miel
+
+---
+
+La primera fuente importante de polen y néctar para las abejas después de la
+sequía de verano es el algarrobo. Con esta mielada las abejas se preparan para
+recibir el romero, tomillo, brezo y demás plantas con las que harán sus reservas
+de miel para el invierno. 
+
+Este polen es esencial para conseguir unas abejas [gordas](https://www.latiendadelapicultor.com/blog/abejas-gordas-la-importancia-de-la-proteina-en-la-abeja/) que levantarán la
+colmena la primavera que viene.
+
+
+Si hay exceso os podremos ofrecer esta
+[miel](http://localhost:8000/es/productos/miel) dentro de un mes y medio
+aproximadamente.
+
+
+<div class="grav-vimeo">
+  <iframe src="//player.vimeo.com/video/291350275" width="800" height="507"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>

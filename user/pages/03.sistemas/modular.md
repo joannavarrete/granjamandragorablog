@@ -1,8 +1,8 @@
 ---
-title: Sistemas
+title: Sistemas: Apicultura - Gallinas - Paneles Fotovoltaicos
 fullwidth: true
 body_classes: title_center
-
+menu: Sistemas
 content:
     items: '@self.modular'
     order:

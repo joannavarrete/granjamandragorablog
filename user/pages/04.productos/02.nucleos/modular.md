@@ -1,6 +1,6 @@
 ---
-title: Home
-menu: Home
+title: Núcleos
+menu: Núcleos
 onpage_menu: false
 body_classes: "home page page-template page-template-template-home page-template-template-home-php group-blog"
 
@@ -11,13 +11,13 @@ content:
         by: default
         dir: asc
         custom:
-            - _features
+            - _caracteristicas
             - _callout
             - _screenshots
             - _subscribe
 
 ---
 
-#VENTA DE NUCLEOS{.text-center}
+#VENTA DE NÚCLEOS{.text-center}
 
 

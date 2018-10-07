@@ -4,12 +4,13 @@
     </div>
     <div class="row">
         <div class="large-12 columns">
-            <div id="screenshots-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
-                {% for item in page.media.images %}
-                    <div class="large-3 columns item">
+          <div id="screenshots-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+            {% for file in page.header.images %}
+            {% set item = page.find(file.folder).media[file.name] %}
+            <div class="large-3 columns item">
                         <div class="item-wrap">
-                            <a href="{{ page.url(true) }}/{{ item.filename }}" data-imagelightbox="a" >
-                                {{ item.cropZoom(700, 700).html( item.filename|replace({'-': " "}), item.filename|replace({'-': " "})) }}
+                          <a href="{{ page.url(true) }}/{{ item.filename }}" data-imagelightbox="a" >
+                            {{item.lightbox(1024,768).cropZoom(700, 700).html(item.filename|replace({'-': " "}), item.filename|replace({'-': " "})) }}
                                 <div class="overlay"></div> 
                                 <div class="link-icon"><i class="icon-plus"></i></div>
                             </a>

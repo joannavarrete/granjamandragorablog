@@ -18,9 +18,9 @@ Uno de los principios de la
 [Permacultura](https://es.wikipedia.org/wiki/Permacultura) es el de **no generar
 desechos**.
 
-Es un buen principio, si todos lo siguieramos la raza humana no se encontraría
+Es un buen principio, si todos lo siguiéramos la raza humana no se encontraría
 en la situación en la que se encuentra ahora: con una
-[isla de plastico](https://es.wikipedia.org/wiki/Isla_de_basura) flotando por el
+[isla de plástico](https://es.wikipedia.org/wiki/Isla_de_basura) flotando por el
 Pacífico.
 
 Reducir los desechos inorgánicos puede ser complicado. Con los orgánicos no
@@ -72,9 +72,9 @@ sombra.
 
 Las lombrices, para obtener oxigeno, necesitan un grado de humedad alto, pero
 no pueden sobrevivir mucho tiempo en agua estancada. Así que drenar
-el exceso de agua es imperativo, para ello usamos el desag&uuml;e de la
+el exceso de agua es imperativo.Para ello usamos el desagüe de la
 bañera. Y, queremos que salga el agua, pero no las lombrices, por eso
-cubrimos el desag&uuml;e con un pedazo de tela mosquitera.
+cubrimos el desagüe con un pedazo de tela mosquitera.
 
 [columns count=2 width=200px ]
 ![Regando la bañera](/images/lombricultura/regando_la_banera@3x.jpg)
@@ -97,8 +97,8 @@ bañeras y hacen que el aire fluya hacia dentro.
 
 De todos los materiales que componen una cama de lombrices, el lecho es el
 más importante. Con lecho nos referimos a la zona donde viven las
-lombrices, debería ser un material orgánico, esponjoso, y que
-retenga el agua.
+lombrices. Debería ser un material orgánico, esponjoso, y que
+retuviese el agua.
 
 Tenemos distintas opciones para elegir, cada una con sus pros y sus contras:
 
@@ -135,7 +135,7 @@ oveja curado para potenciar los nutrientes.
 
 Cubrimos las vermicompostadoras con tela mosquitera para que los
 pájaros, o las gallinas en nuestro caso, no las escarben. Y, en invierno,
-las tapamos con una tela negra
+las tapamos con una tela negra. 
 
 
 

@@ -7,7 +7,7 @@
     <title>{% if header.title %}{{ header.title }} | {% endif %}{{ site.title }}</title>
     {% include 'partials/metadata.html.twig' %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="icon" type="image/png" href="{{ theme_url }}/img/granja.ico" />
+    <link rel="icon" type="image/png" href="{{ theme_url }}/img/android-chrome-512x512.png" />
 
     {% block stylesheets %}
         {% do assets.addCss('theme://css/animate.min.css') %}
@@ -41,10 +41,18 @@
 <body id="top" class="{{ page.header.body_classes }}">
     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
     <div id="page">
-        {% block header %}
-          {% include 'partials/header_alt.html.twig' %}
-        {% endblock %}
 
+        {% if page.header.big_header %}
+          {% block header %}
+            {% include 'partials/header.html.twig' %}
+          {% endblock %}
+        {% else %}
+          {% block header_alt %}
+            {% include 'partials/header_alt.html.twig' %}
+          {% endblock %}
+        {% endif %}
+        
+        
         {% block navigation %}
           {% include 'partials/navigation.html.twig' %}
         {% endblock %}

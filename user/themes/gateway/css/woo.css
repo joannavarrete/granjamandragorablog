@@ -160,12 +160,12 @@
 #features {
    background: #fff;
    overflow: hidden;
-   padding-right: 1em;
-   
+
 }
 #features .feature {
    margin-top: 2em;
    margin-bottom: 2.5em;
+   width: 80%;
 }
 #features .right {
    padding-left: 2em;
@@ -179,7 +179,22 @@
    text-transform: uppercase;
    letter-spacing: 1px;
    color: #222;
+   margin-top:0;
+   margin-bottom:0;
+       
+
 }
+#features p {
+   margin-top:0;
+   margin-bottom:0;
+}
+
+#features .sc-columns img{
+    display:block;
+    margin:auto;
+
+}
+
 .fluid-video-wrapper { margin-top: 0.5em; }
 
 /*call to action */
@@ -220,6 +235,21 @@
 	color: #A9B5C0;
 }
 
+
+#screenshots{
+    padding-top:4em;
+    padding-bottom:4em;
+        
+}
+
+#screenshots .row{
+    max-width: 1008px;
+}
+
+#screenshots .columns{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
 
 
 
