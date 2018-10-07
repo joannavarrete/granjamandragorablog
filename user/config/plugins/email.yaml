@@ -1,8 +1,8 @@
 enabled: true
-from: your@email.here
-to: your@email.here
+from: contacto@granjamandragora.es
+to: contacto@granjamandragora.es
 mailer:
-  engine: mail
+  engine: smtp
   smtp:
     server: localhost
     port: 25
