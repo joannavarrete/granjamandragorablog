@@ -18,7 +18,7 @@ floración, producir miel en su primera temporada.
 
 [columns count=2 width=200px  gap=4em ]
 ###Tempranos
-Queremos que los núcleos que nos compréis produzcan miel esa misma
+Queremos que los núcleos que nos compréis produzcan [miel](/productos/miel) esa misma
 temporada. Para eso necesitamos entregarlos pronto. Nuestra intención es siempre
 entregar los núcleos en abril. ¿Cómo lo hacemos? No creamos núcleos ciegos,
 utilizamos la técnica de cría de reina seleccionada, y así nos adelantamos un

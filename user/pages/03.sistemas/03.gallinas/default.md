@@ -1,5 +1,7 @@
 ---
-title: Gallinas
+title: Gallinas | Nuestra forma de criar a las gallinas
+menu: Gallinas
+header: Gallinas
 body_classes: title_center
 fullwidth: true
 background: 'gallo_posando.jpg'

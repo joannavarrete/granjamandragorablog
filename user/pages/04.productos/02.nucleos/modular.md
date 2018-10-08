@@ -1,5 +1,5 @@
 ---
-title: Núcleos
+title: Núcleos Dadant: Fuertes, A Tiempo y Sanos
 menu: Núcleos
 onpage_menu: false
 body_classes: "home page page-template page-template-template-home page-template-template-home-php group-blog"
@@ -18,6 +18,6 @@ content:
 
 ---
 
-#VENTA DE NÚCLEOS{.text-center}
+#VENTA DE NÚCLEOS DADANT{.text-center}
 
 

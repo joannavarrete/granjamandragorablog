@@ -16,11 +16,9 @@ taxonomy:
 
 ---
 
-
-Las abejas han arrancado y están haciendo miel de algarrobo y tomillo. En el
+Las abejas han arrancado y están haciendo [miel de algarrobo, tomillo y olivarda](/productos/miel). En el
 vídeo podemos ver como las abejas almacenan miel en las alzas melíferas y como
 en caso de faltar espacio la reina puede llegar a subir a ellas para poner. 
-
 
 <div class="grav-vimeo">
   <iframe src="//player.vimeo.com/video/292578934" width="800" height="507"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -1,7 +1,10 @@
 ---
 background: 'Guadalest.jpg'
 fullwidth: true
-title: Contacto
+menu: Contacto
+title: Contacto | Reserva aquí tu miel o núcleos para la siguiente temporada 
+header: Contacto
+body_classes: title_center
 form:
     classes: 'contact-form'
     name: my-nice-form
@@ -56,7 +59,7 @@ form:
 
 
 
-####Reserva aquí tu miel para la siguiente temporada o nucleos de abejas para la primavera.
+####Reserva aquí tu [miel](/productos/miel) para otoño de 2019 o [núcleos de abejas](/productos/nucleos) para la primavera.
   
 Si tienes un proyecto de permacultura cerca del nuestro nos interesaría conocerte e intercambiar opiniones.
 

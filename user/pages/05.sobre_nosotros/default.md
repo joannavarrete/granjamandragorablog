@@ -6,7 +6,7 @@ background: 'Guadalest.jpg'
 ---
 
 
-[columns count=2 width=200px]
+[columns count=2 width=200px gap=4em]
 ![Nostros con las colmenas](/images/nosotros/los_dos_con_las_colmenas.jpg)
 
 Esto no es una granja. Todavía no. Es un proyecto. Un sueño. Una determinación
@@ -22,9 +22,11 @@ materialismo, no es una vida plena.
 
 [/columns]
 
-&nbsp;
+<br>
 
 ####Vivir con poco, ser felices y regenerar la bioesfera. Nuestros objetivos se podrían resumir así.
+
+<br>
 
 
 

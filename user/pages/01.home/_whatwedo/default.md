@@ -1,17 +1,17 @@
 ---
 vimeo:
-  src: https://player.vimeo.com/video/291350275
+  src: https://player.vimeo.com/video/292578934
   width: 570
   height: 321
 class: home-content
 buttons:
-    - text: Contacta con nosotros
+    - text: Reserva tu miel de otoño
       url: contacto
       class: button radius
 ---
 
-### Las abejas recolectando algarrobo en la mielada de otoño
+### Las abejas están almacenando néctar de algarrobo, tomillo y olivarda
 
-La primera fuente importante de polen y néctar para las abejas despúes de la sequía de verano es el algarrobo. Con esta mielada, las abejas se preparan para recibir el romero, tomillo, brezo y demás plantas con las que harán sus reservas de miel para el invierno.
-
-Si hay exceso os podremos ofrecer esta miel dentro de un mes y medio aproximadamente.
+Las abejas han arrancado y están haciendo [miel de algarrobo, tomillo y olivarda](/productos/miel). En el
+vídeo podemos ver como las abejas almacenan miel en las alzas melíferas y como
+en caso de faltar espacio la reina puede llegar a subir a ellas para poner. 

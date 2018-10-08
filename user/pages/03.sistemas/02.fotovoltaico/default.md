@@ -1,5 +1,7 @@
 ---
-title: Energía fotovoltaica
+title: Energía fotovoltaica | Nuestra instalación de energía solar
+menu: Energía fotovoltaica
+header: Energía fotovoltaica
 body_classes: title_center
 fullwidth: true
 background: 'placas_solares.jpg'
@@ -64,6 +66,7 @@ firmes. Yo diría que están mejor que en un suporte comercial.
 Por último, levantamos un pequeño armario para guardar las baterías, el inversor
 y el regulador.
  
+<br>
 
 [columns count=2 width=200px]
 ![Detalle inversor](/images/fotovoltaica/detalle_inversor.jpg)
@@ -72,6 +75,8 @@ y el regulador.
 ![Detalle regulador](/images/fotovoltaica/detalle_regulador.jpg)
 
 [/columns]
+
+<br>
 
 **La energía solar fluctúa**. Hay días y noches. Semanas nubladas y rachas de
 calor. A los seres humanos no nos gustan las fluctuaciones. Nos gusta la
@@ -130,6 +135,8 @@ dimensionadas; el presupuesto cambió e invertimos ese dinero en otra
 partida. Ahora tenemos un problema, no podemos desechar un juego de baterías
 cada tres años. Eso, ni es sostenible ni económico.
 
+<br>
+
 [columns count=2 width=200px]
 
 ![Detalle llave de corte](/images/fotovoltaica/detalle_llave_corte.jpg)
@@ -137,6 +144,8 @@ cada tres años. Eso, ni es sostenible ni económico.
 ![Detalle conexion baterias](/images/fotovoltaica/detalle_conexion_baterias.jpg)
 
 [/columns]
+
+<br>
 
 Las posibles soluciones serian:
 

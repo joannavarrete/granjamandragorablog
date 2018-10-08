@@ -1,7 +1,9 @@
 <section id="call-to-action">
     <div class="row">
-        <div class="large-2 columns header-col">
-            <h1><span>{{ page.header.title }}</span></h1>
+      <div class="large-2 columns header-col">
+        <div class="callout-logo">
+          {{page.find(page.header.logo.folder).media[page.header.logo.file].resize(200, 200).html(page.header.title) }}
+        </div>
         </div>
         <div class="large-7 columns">
             {{ content }}
