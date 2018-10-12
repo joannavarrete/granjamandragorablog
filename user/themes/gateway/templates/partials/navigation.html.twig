@@ -15,6 +15,7 @@
     {% endfor %}
 {% endmacro %}
 
+          
 <header id="masthead" class="site-header" role="banner">
    <div class="stick">
       <nav class="top-bar" data-topbar="" data-options="mobile_show_parent_link: true">
@@ -44,7 +45,15 @@
                           {{ mitem.text }}
                       </a>
                   </li>
-              {% endfor %}
+                  {% endfor %}
+              <li class="snipcart-summary">
+                  <a href="#" class="snipcart-checkout">
+                    Carrito
+                    <i class="fa fa-shopping-cart">
+                      <span class="snipcart-total-items"></span>
+                    </i>
+                  </a>
+              </li>                  
             </ul>
          </section>
       </nav>

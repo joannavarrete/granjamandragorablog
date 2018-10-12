@@ -1,6 +1,6 @@
 ---
 title: Miel de Algarrobo, Tomillo y Olivarda
-price: 6
+price: 7
 product_id: miel-algarrobo-otono-2019
 body_classes: snipcart-granja
 ---

@@ -65,8 +65,7 @@
           {% include 'partials/woo-footer.html.twig' %}
         {% endblock %}
     </div>
-    
-    
+
     <script type="text/javascript">
 		//<![CDATA[
 		var infiniteScroll = {"settings":{"id":"main","type":"scroll","wrapper":true,"wrapper_class":"infinite-wrap","footer":"page","click_handle":"1","text":"Older posts"}};

@@ -10,14 +10,14 @@
             <a href="{{ page.url }}">{{ snipcart_image.cropResize(200,200).html('page.header.title','snipcart-thumb-image')|raw }}</a>
         {% endif %}
         <span class="snipcart-price">
-        ${{ page.header.price }}
+        €{{ page.header.price }}
         </span>
     </div>
     <div class="snipcart-details">
     <p>
         <a href="{{ page.url }}"
             class="button button-small">
-            <i class="fa fa-info-circle"></i> Details
+            <i class="fa fa-info-circle"></i> Detalle
         </a>
         <a href="#"
             class="button button-small snipcart-add-item"
@@ -32,7 +32,7 @@
                 {% endspaceless %}
                 
         >
-            <i class="fa fa-shopping-cart"></i> Add
+            <i class="fa fa-shopping-cart"></i> Añadir
         </a>
     </p>
     </div>

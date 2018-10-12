@@ -10,7 +10,7 @@
                 {{ snipcart_image.cropResize(400,400).html(page.header.title,'snipcart-thumb-image')|raw }}
             {% endif %}
             <span class="snipcart-price">
-            ${{ page.header.price }}
+            €{{ page.header.price }}
             </span>
         </div>
         <p>
@@ -19,7 +19,9 @@
                 data-item-id="{{ page.header.product_id }}"
                 data-item-name="{{ page.header.title }}"
                 data-item-price="{{ page.header.price }}"
-                data-item-url="{{ page.url }}"
+               data-item-url="{{ page.url }}"
+               data-item-has-taxes-included="true"
+               data-item-max-quantity="10"
                 {% spaceless %}
                 {% if snipcart_image %}
                     data-item-image="{{ snipcart_image.cropResize(50,50).url }}"
@@ -27,7 +29,7 @@
                 {% endspaceless %}
                 
             >
-                <i class="fa fa-shopping-cart"></i> Add to Cart
+                <i class="fa fa-shopping-cart"></i> Añadir al Carrito
             </a>
         </p>
     </div>
