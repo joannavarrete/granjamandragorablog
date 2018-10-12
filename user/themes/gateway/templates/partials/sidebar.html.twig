@@ -23,7 +23,7 @@
 </aside>
 {% endif %}
 <aside class="widget widget_recent_entries">
-	<h1 class="widget-title">Últimos Articulos</h1>
+	<h1 class="widget-title">Últimos Artículos</h1>
   <ul>
     {% for post in page.find('/blog').children.order('date', 'desc').slice(0, 5) %}
     {% if post.published %}

@@ -275,5 +275,23 @@
 }
 
 
+/* TIENDA } */
+
+.snipcart-granja{
+    margin-top: 1.2rem;
+    margin-bottom: 2.5rem;
+}
+
+.snipcart-granja .content-wrapper, .snipcart-detail{
+    margin-left: auto;
+    max-width: 70rem;
+    margin-right: auto;
+    padding-bottom: 6em;
+}
+
+
+
+
+
 
 

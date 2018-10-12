@@ -1,4 +1,4 @@
 ---
 featured: true
 ---
-## Articulos Populares
+## Artículos Populares
