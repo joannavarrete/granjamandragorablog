@@ -1,0 +1,17 @@
+<a href="#"
+   class="button snipcart-add-item"
+   data-item-id="{{ page.header.product_id }}"
+   data-item-name="{{ page.header.title }}"
+   data-item-price="{{ page.header.price }}"
+   data-item-url="{{ page.url }}"
+   data-item-has-taxes-included="true"
+   data-item-max-quantity="10"
+   data-item-custom2-name="Tamaño"
+   data-item-custom2-options="500g|1kg[+3.5]"
+   data-item-custom2-value="500g"
+   {% spaceless %}
+   {% if snipcart_image %}
+   data-item-image="{{ snipcart_image.cropResize(50,50).url }}"
+   {% endif %}
+   {% endspaceless %}
+>
