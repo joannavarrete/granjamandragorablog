@@ -10,8 +10,8 @@ body_classes: snipcart-granja
 ===
 
 Miel cruda de la floración de otoño de 2018 en la solana de la sierra
-Xortá, en el Valle de Guadalest. Compuesta en proporciones variables por algarrobo, tomillo, olivarda,
-romero, brezo y níspero.
+Xortá, en el Valle de Guadalest, Alicante. Compuesta en proporciones variables
+por algarrobo, tomillo, olivarda, romero, brezo y níspero.
 
 La miel de otoño de 2018. Una miel de algarrobo, tomillo y olivarda, brezo,
 etc... con un sabor inigualable. No es una miel monofloral clara de romero o

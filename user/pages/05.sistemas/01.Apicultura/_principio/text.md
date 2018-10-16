@@ -8,7 +8,8 @@
 ---
 <br>
 
-El colmenar está emplazado en una peña con orientación este. Esto permite que el
+Nuestro colmenar está situado en la loma del Xortá, en el Valle de Guadalest,
+Alicante. Justo detras de una peña con orientación este. Esto permite que el
 sol incida en las colmenas cuando sale por la mañana, calentándolas y
 estimulando a las abejas para que salgan a pecorear. Esa misma peña les
 resguarda de los vientos de invierno.
@@ -33,12 +34,6 @@ Nuestras abejas recogen néctar de las plantas silvestres del Xortà, sobre todo
 * Carrasca [(Quercus coccifera)](https://es.wikipedia.org/wiki/Quercus_coccifera)
 [/columns]
 
-
-
-
-
-
-
 Y también de cultivos como: 
 
 Algarrobo, almendro, cítricos y nísperos. 
@@ -46,9 +41,9 @@ Algarrobo, almendro, cítricos y nísperos.
 En la foto de la derecha podéis ver un área de pecoreo aproximado.
 
 Cuando las abejas generan un exceso de miel en las alzas melíferas, lo extraemos
-y envasamos directamente, sin ningún tratamiento. Esta miel preserva todas sus propiedades nutricionales (vitaminas naturales,
-enzimas, antioxidantes y otros nutrientes naturales) además de dejar el polen
-intacto.
+y envasamos directamente, sin ningún tratamiento. Esta miel preserva todas sus
+propiedades nutricionales (vitaminas naturales, enzimas, antioxidantes y otros
+nutrientes naturales) además de dejar el polen intacto.
 
 <br>
 
