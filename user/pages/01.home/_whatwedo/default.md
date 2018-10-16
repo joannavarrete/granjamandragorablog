@@ -1,6 +1,6 @@
 ---
 vimeo:
-  src: https://player.vimeo.com/video/292578934
+  src: https://player.vimeo.com/video/295235077
   width: 570
   height: 321
 class: home-content
@@ -10,8 +10,14 @@ buttons:
       class: button radius
 ---
 
-### Las abejas están almacenando néctar de algarrobo, tomillo y olivarda
+### Hoy hemos echado un ojo a las alzas melíferas y están llenas de miel operculada, listas para extraer.
 
-Las abejas han arrancado y están haciendo [miel de algarrobo, tomillo y olivarda](/productos/miel). En el
-vídeo podemos ver como las abejas almacenan miel en las alzas melíferas y como
-en caso de faltar espacio la reina puede llegar a subir a ellas para poner. 
+A toda la gente que ha reservado miel por
+[facebook](https://www.facebook.com/granjamandragora/) y en la pagina web les enviaremos un correo diciendo que la [miel](/productos/miel) está lista. 
+
+Vamos a realizar un sorteo en nuestra pagina de [facebook](https://www.facebook.com/granjamandragora/) de 10 tarros de miel
+para celebrar que hemos llegado a los 150 seguidores.
+
+La tienda online se activará hasta fin de existencias.
+
+Muchas gracias a todos.

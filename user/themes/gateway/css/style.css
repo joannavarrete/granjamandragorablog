@@ -411,16 +411,18 @@ section.top-bar-section .dropdown li.title h5 a {
   margin-bottom: 0.5rem;
 }
 .hero-widgets-wrap p {
-  margin: 5em 0;
+  margin: 2em 0;
 }
 @media only screen and (max-width: 40em) {
   .hero-widgets-wrap p {
     margin: 2.5em 0 3.5em 0;
   }
 }
-.hero-widgets-wrap .button {
+
+/*.hero-widgets-wrap .button {
   margin: 5em 0 0 0;
-}
+}*/
+
 @media only screen and (max-width: 40em) {
   .hero-widgets-wrap .button {
     margin: 0 0 0 0;
