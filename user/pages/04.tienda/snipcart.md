@@ -2,7 +2,7 @@
 title: Tienda | Compra los productos de la Granja Mandragora
 menu: Tienda
 body_classes: snipcart-granja
-visible: true
+visible: false
 content:
     items: @self.children
     order:
