@@ -302,11 +302,15 @@
     color: 	#252440 !important;
 }
 
-
 .snipcart-total-items{
     color: #fff !important;
 }
 
+.not-active {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+}
 
 
 

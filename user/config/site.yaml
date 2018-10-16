@@ -11,10 +11,10 @@ header:
   description: Granja Mandrágora es un proyecto regido por los principios de la permacultura que aspira a demostrar que otro modo de vida es posible.
 
   background: 'extractor_1.jpeg'
-#  buttons:
-#    - text: Seguir Explorando
-#      url: "#home_posts"
-#      class: button radius
+  buttons:
+    - text: Reservar miel
+      url: "/productos/miel"
+      class: button radius
 
 social:
 #  - url: 'https://twitter.com/getgrav'
