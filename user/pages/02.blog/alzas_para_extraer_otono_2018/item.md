@@ -1,5 +1,5 @@
 ---
-title: Alzas para extraer otono 2018
+title: Alzas para extraer otoño 2018
 published: true
 date: '2018-10-15'
 publish_date: '2018-10-15'
