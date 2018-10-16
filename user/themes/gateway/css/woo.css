@@ -312,6 +312,10 @@
   text-decoration: none;
 }
 
+.image-center{
+ display:block;
+ margin:auto;
+}
 
 
 
