@@ -7,11 +7,7 @@ content:
     items: @self.children
     order:
         by: title
-        dir: asc
-    
+        dir: asc    
 ---
+##Venta de miel artesanal, pura y exclusiva, así como productos relacionados con la apicultura.{.text-center}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.

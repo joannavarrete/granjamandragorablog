@@ -7,10 +7,10 @@ title: Features
 ![Cruda](/images/vectors/abeja_cubo.png?resize=200,200)
 
 ###Cruda
-Extraemos y envasamos la miel directamente de la colmena, sin ningún
-tratamiento y, por lo tanto, preserva todas sus propiedades nutricionales
-(vitaminas naturales, enzimas, antioxidantes y otros nutrientes naturales)
-además de dejar el polen intacto.
+Extraemos y envasamos la miel directamente de nuestras colmenas en el Valle de
+Guadalest, Alicante. No pasteurizamos ni ultra-filtramos y, por lo tanto,
+la miel preserva todas sus propiedades nutricionales (vitaminas naturales,
+enzimas, antioxidantes y otros nutrientes) además de dejar el polen intacto.
 [/columns]
 
 <br>

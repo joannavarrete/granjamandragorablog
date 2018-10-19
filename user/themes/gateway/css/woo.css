@@ -1,3 +1,4 @@
+
 #subscribe {
    background: #23292F;
    padding-top: 2em;
@@ -289,10 +290,31 @@
     padding-bottom: 6em;
 }
 
+.snipcart-summary{
+    transform: none !important;
+}
+
+.snipcart-summary a{
+    color: #1BB3E9 !important;
+}
+
+.snipcart-summary a:hover{
+    color: 	#252440 !important;
+}
+
+.snipcart-total-items{
+    color: #fff !important;
+}
+
 .not-active {
   pointer-events: none;
   cursor: default;
   text-decoration: none;
+}
+
+.image-center{
+ display:block;
+ margin:auto;
 }
 
 

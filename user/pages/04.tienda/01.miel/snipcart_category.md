@@ -9,5 +9,5 @@ content:
         dir: asc
 ---
 
-# T-Shirts
-## We have both **cool** and **funny** t-shirts
+# Miel artesanal{.text-center}
+## Miel del otoño de 2018 (Algarrobo, Tomillo y Olivarda){.text-center}
