@@ -1,5 +1,5 @@
 ---
-title: Miel del otoño de 2018
+title: Miel de otoño de 2018
 price: 6
 product_id: miel-algarrobo-otono-2019
 body_classes: snipcart-granja
@@ -9,7 +9,7 @@ body_classes: snipcart-granja
 
 ===
 
-Miel cruda de la floración de otoño de 2018 en la solana de la sierra
+Miel cruda de la floración de otoño de 2018 en la Solana de la Sierra
 Xortá, en el Valle de Guadalest, Alicante. Compuesta en proporciones variables
 por algarrobo, tomillo, olivarda, romero, brezo y níspero.
 
