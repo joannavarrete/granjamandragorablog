@@ -79,7 +79,7 @@ cache:
     method: file
   driver: auto
   prefix: g
-  clear_images_by_default: true
+  clear_images_by_default: false
   cli_compatibility: false
   lifetime: 604800
   gzip: false
