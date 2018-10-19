@@ -93,13 +93,13 @@ twig:
   undefined_filters: true
   umask_fix: false
 assets:
-  css_pipeline: false
+  css_pipeline: true
   css_pipeline_include_externals: true
   css_pipeline_before_excludes: true
   css_minify: true
   css_minify_windows: false
   css_rewrite: true
-  js_pipeline: false
+  js_pipeline: true
   js_pipeline_include_externals: true
   js_pipeline_before_excludes: true
   js_minify: true
@@ -113,7 +113,7 @@ debugger:
   enabled: false
   shutdown:
     close_connection: true
-  twig: true
+  twig: false
 images:
   default_image_quality: 85
   cache_all: false
