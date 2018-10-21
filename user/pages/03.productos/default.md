@@ -2,7 +2,7 @@
 title: Productos | 
 header: Los productos de la Granja Mandragora
 menu: Productos
-not_clickable: true
+<!-- not_clickable: true -->
 body_classes: title_center
 fullwidth: true
 ---
@@ -11,6 +11,6 @@ fullwidth: true
 #Miel{.text-center}
 [![Miel](/images/abejas/bote_miel_doodle_negra.png?resize=200,200){.image-center}](/productos/miel)
 
-#Nucleos{.text-center}
-[![Nucleos](/images/abejas/colmena_doodle_negra.png?resize=200,200){.image-center}](/productos/nucleos)
+#Núcleos{.text-center}
+[![Núcleos](/images/abejas/colmena_doodle_negra.png?resize=200,200){.image-center}](/productos/nucleos)
 [/columns]

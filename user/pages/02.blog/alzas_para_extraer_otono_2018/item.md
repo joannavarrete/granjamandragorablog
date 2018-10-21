@@ -13,6 +13,8 @@ taxonomy:
     tag:
         - colmenas
 
+metadata:
+    'og:type': video.movie
 
 ---
 
