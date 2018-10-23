@@ -1,0 +1,32 @@
+<style type="text/css" id="rescue_custom_css">
+
+#product-banner{
+    background:url( '{{ page.find('/images/backgrounds/').media['banderitas.jpg'].url }}' );
+    background-size: 20%;
+    background-position: top;
+    background-repeat: repeat-x;
+}
+
+</style>
+
+<section id="product-banner">
+    <div class="row">
+      <div class="large-3 columns header-col">
+        <div class="callout-logo">
+          {{page.find('/images/banners/').media['torito.jpeg'].resize(150, 150).html(page.header.title) }}
+        </div>
+      </div>
+        <div class="large-6 columns banner-text">
+          <h2>Envio gratis a partir de 50€</h2>
+          <h2>Importes inferiores 5€</h2>
+          <h4>O puedes recoger tu compra en la Granja gratis</h4>
+        </div>
+      <div class="large-3 columns header-col">
+        <div class="callout-logo">
+          {{page.find('/images/banners/').media['camion.jpeg'].resize(150, 150).html(page.header.title) }}
+        </div>
+      </div>        
+    </div>
+</section>
+
+<hr>

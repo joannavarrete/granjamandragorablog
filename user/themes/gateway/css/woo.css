@@ -279,15 +279,19 @@
 /* TIENDA } */
 
 .snipcart-granja{
-    margin-top: 1.2rem;
     margin-bottom: 2.5rem;
 }
 
+.snipcart-granja .site-content {
+    margin-top: 0em !important;
+}
+    
 .snipcart-granja .content-wrapper, .snipcart-detail{
     margin-left: auto;
     max-width: 70rem;
     margin-right: auto;
     padding-bottom: 6em;
+    padding-top: 1em;
 }
 
 .snipcart-summary{
@@ -317,7 +321,96 @@
  margin:auto;
 }
 
+#product-banner {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#product-banner .row{
+    margin-top: 2em;
+}
+
+#product-banner img{
+    display: block;
+    margin: auto;
+}
+
+.other-thumbs img{
+    float: left;
+}
+
+.banner-text{
+    text-align: center
+}
+
+.banner-text h2, h4{
+    margin-top: 0.2rem; 
+    margin-bottom: 0.2rem; 
+}
+
+.banner-text h4{
+    font-family: 'Indie Flower', cursive;
+}
 
 
+.shop-product .site-content{
+    margin-top: 0em;
+}
+
+.shop-product .product-detail .row{
+    max-width: 70rem;
+}
+
+.shop-product .product-detail{
+    margin-top: 3.5em;
+}
+
+.shop-product .product-detail .info{
+    padding-left: 1em;
+}
+
+.snipcart-thumb p{
+    text-align: center;
+}
+
+.shop-product .product-detail .snipcart-thumb .snipcart-price {
+    height: 100px;
+    line-height: 100px;
+    width: 100px;
+    font-size: 1.5rem;
+}
+
+.product-detail .size{
+    padding-top: 2em;
+    max-width: 90%;
+}
+
+.product-detail fieldset{
+    border: 1px solid #000;
+    font-size: 1.5em;
+}
+
+
+.product-detail .container{
+    float: left;
+
+}
+
+.snipcart-products{
+    padding-top: 2em;
+}
+
+.product-detail .container {
+    padding-left: 2.5rem;
+}
+
+.product-detail label{
+    font-size: 1.5em;
+     cursor: pointer;
+} 
+
+
+
+   
 
 

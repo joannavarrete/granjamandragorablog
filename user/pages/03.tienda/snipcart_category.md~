@@ -1,12 +1,13 @@
 ---
-title: Miel Artesanal
-category: Miel Artesanal
+title: Tienda
+category: Tienda
 body_classes: snipcart-granja
 content:
     items: @self.children
     order:
         by: default
         dir: asc
+
 ---
 
 # Miel artesanal{.text-center}

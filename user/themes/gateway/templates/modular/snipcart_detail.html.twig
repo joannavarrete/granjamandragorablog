@@ -1,0 +1,76 @@
+
+{% include 'partials/shipping_banner.html.twig' %}
+
+<div class="product-detail">
+  
+  {% set snipcart_image = page.media.images|first %}
+  
+  <div class="row">
+    
+    {{ page.order|trim('.') }}
+    
+    <div class="large-5 columns header-col">
+      
+      <div class="snipcart-thumb">
+        {% if snipcart_image %}
+        {{ snipcart_image.lightbox(1024,768).cropResize(400, 400).html(item.filename|replace({'-': " "}), item.filename|replace({'-': " "})) }}
+        {% endif %}
+        <span class="snipcart-price">
+          {{ page.header.price }}€
+        </span>
+              <p>
+        {% include 'partials/snipcart_button.html.twig' %}
+      </p>
+
+      </div> {# snipcart-thumb #}
+      
+      <div class="other-thumbs row">
+        
+        {% for item in page.media.images %}
+
+          <a href="{{ page.url(true) }}/{{ item.filename }}" data-imagelightbox="a" >
+            {{item.lightbox(1024,768).cropResize(60, 60).html(item.filename|replace({'-': " "}), item.filename|replace({'-': " "})) }}
+            <div class="overlay"></div> 
+            <div class="link-icon"><i class="icon-plus"></i></div>
+          </a>
+
+          {% endfor %}
+      </div>     
+
+      {% for item in page.header.custom %}
+      {{ dump(item) }}
+      <div class="size">
+        <fieldset>
+          <legend>{{item.name}}</legend>
+          {% for option in item.options|split('|') %}
+          
+          {{ dump(option|split('[')|first) }}
+          
+          {% set name = option|split('[')|first %}
+          {% set price = option|split('[')[1]|split(']')|first %}
+
+          {{ dump(price) }}
+          
+          <div class="container">
+            <input type="radio" name="demo" value="one" id="{{name}}" class="form-radio" checked><label for="radio-one">{{name}}</label>
+          </div>
+          {% endfor %}
+        </fieldset>
+      </div>
+      {% endfor %}
+      
+      
+                  
+    </div> {# snipcart-info #}
+    
+    <div class="large-7 columns info">
+      <h1>{{ page.header.title }}</h1>
+  
+      <p>{{ page.content|raw }}</p>
+
+      
+    </div>{# snipcart-details #}
+
+  </div> {# snipcart-detail #}
+</div> {# content-wrapper #}
+

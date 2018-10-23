@@ -1,0 +1,47 @@
+
+<div class="content-wrapper">
+  {{ dump(page.media.images) }}
+  
+  {% set snipcart_image = page.media.images|first %}
+  
+  <div id="row" class="block-group">
+    
+    {{ page.order|trim('.') }}
+    
+    <div class="large-5 columns header-col">
+      
+      <div class="snipcart-thumb">
+        {% if snipcart_image %}
+        {{ snipcart_image.cropResize(400,400).html(page.header.title,'snipcart-thumb-image')|raw }}
+        {% endif %}
+        <span class="snipcart-price">
+          €{{ page.header.price }}
+        </span>
+      </div> {# snipcart-thumb #}
+      
+      <p>
+        {% include 'partials/snipcart_button.html.twig' %}
+      </p>
+
+      <div>
+        {{ snipcart_image.cropResize(60,60).html(page.header.title,'snipcart-thumb-image')|raw }}
+        {{ snipcart_image.cropResize(60,60).html(page.header.title,'snipcart-thumb-image')|raw }}
+        {{ snipcart_image.cropResize(60,60).html(page.header.title,'snipcart-thumb-image')|raw }}
+      </div>
+
+      
+
+                  
+    </div> {# snipcart-info #}
+    
+    <div class="large-7 columns">
+      <h1>{{ page.header.title }}</h1>
+  
+      <p>{{ page.content|raw }}</p>
+
+      
+    </div>{# snipcart-details #}
+
+  </div> {# snipcart-detail #}
+</div> {# content-wrapper #}
+

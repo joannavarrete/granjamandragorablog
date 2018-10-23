@@ -1,20 +1,25 @@
-{% extends 'partials/snipcart_base.html.twig' %}
+{% extends 'partials/base.html.twig' %}
 
 {% block content %}
 
-    {{ parent() }}
+{{ parent() }}
 
-    <div class="content-wrapper">
+{% include 'partials/shipping_banner.html.twig' %}
+
+<div id="content" class="content-wrapper">
+
         {{ page.content|raw }}
-
+        
         <div class="snipcart-products block-group">
-            {% for child in page.collection() %}
-                {% if (child.header.unpublished is not defined or (child.header.unpublished == false)) %}
-                    {% include 'partials/snipcart_product_item.html.twig' with {'page': child, 'parent': page} %}
-                {% endif %}
-            {% endfor %}
+          {% for child in page.collection() %}
+          {% if (child.header.unpublished is not defined or (child.header.unpublished == false)) %}
+          {% include 'partials/snipcart_product_item.html.twig' with {'page': child, 'parent': page} %}
+          {% endif %}
+          {% endfor %}
         </div>
+
     </div>
+        
 {% endblock %}
 
 
