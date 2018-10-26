@@ -1,7 +1,6 @@
 ---
 title: Bálsamo labial con sabor a menta
 price: 2
-body_classes: snipcart-granja
 product_id: balsamo-labial-cera-abejas-aceite-almendras-menta
 
 ---

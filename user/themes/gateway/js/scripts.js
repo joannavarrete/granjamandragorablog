@@ -1,14 +1,16 @@
 /* ----------------- Start Document ----------------- */
 (function($){
-	$(document).ready(function(){
-		'use strict';
+        $(document).ready(function(){
+            'use strict';
+
 
 /*----------------------------------------------------*/
-/*	 Foundation - http://foundation.zurb.com/docs
+/*       Foundation - http://foundation.zurb.com/docs
 /*----------------------------------------------------*/
-	$(document).foundation();
+        $(document).foundation();
 
-/* ------------------ End Document ------------------ */
+            /* ------------------ End Document ------------------ */
+
 });
-	
+    
 })(this.jQuery);

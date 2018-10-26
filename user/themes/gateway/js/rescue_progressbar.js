@@ -9,5 +9,14 @@ jQuery(function($){
 			});
 
 		}, { offset: 500 });
+        
+        $("input:radio").change(function(){
+            $('#product-button').data('item-custom1-value', $(this).attr("id"));
+                        $('#product-price').html( parseFloat($(this).val() || 0) + parseFloat($('#product-price-original').attr('value')) + '€' );
+            
+        });
 	});
+    
 });
+
+

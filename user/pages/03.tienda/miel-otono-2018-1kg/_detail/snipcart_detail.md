@@ -1,12 +1,13 @@
 ---
 title: Miel de otoño de 2018 (1kg)
-price: 9.5
+price: 6
 product_id: miel-algarrobo-otono-2019-1kg
-body_classes: snipcart-granja
+featured_image: miel-otono-2018.jpg
+
 custom:
-    - name: Size
-      options: Small|Medium[+5.00]|Large[+10.00]|Kid[-5.00]
-      value: Small
+    - name: Tamaño
+      options: 500g|1000g[+3.5]
+      value: 500g
 
 ---
 

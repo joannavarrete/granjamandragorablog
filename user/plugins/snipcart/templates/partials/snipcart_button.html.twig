@@ -1,4 +1,4 @@
-<a href="#"
+<a id="product-button" href="#"
    class="button snipcart-add-item"
    data-item-id="{{ page.header.product_id }}"
    data-item-name="{{ page.header.title }}"
@@ -7,6 +7,16 @@
    data-item-taxes="IVA 10%"
    data-item-has-taxes-included="true"
    data-item-max-quantity="10"
+
+   {% for item in page.header.custom %}
+
+   data-item-custom{{loop.index}}-name="{{item.name}}"
+   data-item-custom{{loop.index}}-options="{{item.options}}"
+   data-item-custom{{loop.index}}-value="{{item.value}}"
+   
+   {% endfor %}
+   
+   
    {% spaceless %}
    {% if snipcart_image %}
    data-item-image="{{ snipcart_image.cropResize(50,50).url }}"

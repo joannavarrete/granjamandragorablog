@@ -316,7 +316,16 @@
   text-decoration: none;
 }
 
-.image-center{
+.shop-button a{
+ display:block;
+ margin:auto;
+ max-width: 50%;
+}
+.shop-button {
+    padding-top: 2em;
+}
+
+.image-center {
  display:block;
  margin:auto;
 }
@@ -381,7 +390,6 @@
 }
 
 .product-detail .size{
-    padding-top: 2em;
     max-width: 90%;
 }
 
