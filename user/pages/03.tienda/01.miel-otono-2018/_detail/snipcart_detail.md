@@ -1,14 +1,17 @@
 ---
-title: Bálsamo labial con sabor a menta
-price: 2
-body_classes: snipcart-granja
-product_id: balsamo-labial-cera-abejas-aceite-almendras-menta
+title: Miel de otoño (2018)
+price: 5.5
+product_id: miel-algarrobo-otono-2018
+featured_image: miel-otono-2018.jpg
+
+custom:
+    - name: Tamaño
+      options: 500g|1000g[+4]
+      value: 500g
 
 ---
 
-##Bálsamo labial con sabor a menta (4 unidades) – Cuidado labial de cera de
-abeja 100% natural con aceite de coco y vitamina E para reparar labios secos,
-cortados o cuarteados
+## Miel de Algarrobo, Tomillo y Olivarda
 
 ===
 

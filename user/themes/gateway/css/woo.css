@@ -332,7 +332,6 @@
 
 #product-banner {
     padding-top: 1em;
-    padding-bottom: 1em;
 }
 
 #product-banner .row{
@@ -344,6 +343,7 @@
     margin: auto;
 }
 
+
 .other-thumbs img{
     float: left;
 }
@@ -352,13 +352,19 @@
     text-align: center
 }
 
-.banner-text h2, h4{
+.banner-text h2, h4, h6{
     margin-top: 0.2rem; 
     margin-bottom: 0.2rem; 
 }
 
 .banner-text h4{
     font-family: 'Indie Flower', cursive;
+    margin-bottom: 0.5rem; 
+    
+}
+
+.shop-product hr{
+    margin: 0.25rem 0 0.188rem !important;
 }
 
 
@@ -420,5 +426,6 @@
 
 
    
+
 
 

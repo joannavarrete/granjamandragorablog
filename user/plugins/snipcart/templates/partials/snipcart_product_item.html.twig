@@ -1,9 +1,8 @@
-{% set snipcart_image = page.media.images|first %}
+  {% set snipcart_image = page.media.images[page.header.featured_image] %}
+
+
 
 <div class="snipcart-item block" >
-
-    {{ page.order|trim('.') }}
-
     <h3><a href="{{ page.url }}">{{ page.header.title }}</a></h3>
     <div class="snipcart-thumb">
         {% if snipcart_image %}

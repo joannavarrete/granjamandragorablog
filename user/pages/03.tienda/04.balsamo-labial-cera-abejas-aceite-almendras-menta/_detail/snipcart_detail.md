@@ -1,12 +1,14 @@
 ---
-title: Miel de otoño de 2018 (1kg)
-price: 9.5
-product_id: miel-algarrobo-otono-2019-1kg
-body_classes: snipcart-granja
+title: Bálsamo labial con sabor a menta
+price: 2
+product_id: balsamo-labial-cera-abejas-aceite-almendras-menta
+featured_image: balsamo_labial.jpg
 
 ---
 
-## Miel de Algarrobo, Tomillo y Olivarda
+##Bálsamo labial con sabor a menta (4 unidades) – Cuidado labial de cera de
+abeja 100% natural con aceite de coco y vitamina E para reparar labios secos,
+cortados o cuarteados
 
 ===
 

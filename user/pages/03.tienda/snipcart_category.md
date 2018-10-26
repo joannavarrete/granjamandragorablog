@@ -5,7 +5,7 @@ body_classes: snipcart-granja
 content:
     items: @self.children
     order:
-        by: default
+        by: folder
         dir: asc
 
 ---

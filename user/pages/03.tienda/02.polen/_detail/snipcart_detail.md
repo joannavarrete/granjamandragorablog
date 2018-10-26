@@ -1,7 +1,12 @@
 ---
-title: Bálsamo labial con sabor a menta
-price: 2
-product_id: balsamo-labial-cera-abejas-aceite-almendras-menta
+title: Polen
+price: 7
+featured_image: polen.jpg
+product_id: polen
+custom:
+    - name: Tamaño
+      options: 220g|450g[+5]
+      value: 220g
 
 ---
 

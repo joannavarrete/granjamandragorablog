@@ -1,10 +1,14 @@
 ---
 title: Polen
-price: 5.5
-body_classes: shop-product
+price: 7
+featured_image: polen.jpg
 product_id: polen
+custom:
+    - name: Tamaño
+      options: 220g|450g[+5]
+      value: 220g
+body_classes: shop-product
 onpage_menu: false
-
 content:
     items: @self.modular
     order:

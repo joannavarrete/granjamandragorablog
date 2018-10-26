@@ -1,9 +1,12 @@
 ---
-title: Bálsamo labial con sabor a menta
-price: 2
-body_classes: snipcart-granja
-product_id: balsamo-labial-cera-abejas-aceite-almendras-menta
-
+title: Cera de abejas 100% Natural
+price: 10
+product_id: cera_granel
+featured_image: cera.jpg
+custom:
+    - name: Tamaño
+      options: 500g|1000g[+8.9]
+      value: 500g
 ---
 
 ##Bálsamo labial con sabor a menta (4 unidades) – Cuidado labial de cera de
