@@ -1,8 +1,8 @@
 ---
-title: Miel de otoño (2018)
+title: Miel de otoño 2018
 price: 5.5
 product_id: miel-algarrobo-otono-2018
-featured_image: miel-otono-2018.jpg
+featured_image: bote_miel_otono_500g.jpg
 
 custom:
     - name: Tamaño

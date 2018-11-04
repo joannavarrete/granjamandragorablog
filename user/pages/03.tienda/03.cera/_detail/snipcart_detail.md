@@ -9,11 +9,11 @@ custom:
       value: 500g
 ---
 
-##Bálsamo labial con sabor a menta (4 unidades) – Cuidado labial de cera de
-abeja 100% natural con aceite de coco y vitamina E para reparar labios secos,
-cortados o cuarteados
+##Directa de nuestras colmenas. Filtramos y purificamos la cera para eliminar las impurezas.
 
 ===
+
+Debido a que filtramos 
 
 Miel cruda de la floración de otoño de 2018 en la Solana de la Sierra
 Xortá, en el Valle de Guadalest, Alicante. Compuesta en proporciones variables

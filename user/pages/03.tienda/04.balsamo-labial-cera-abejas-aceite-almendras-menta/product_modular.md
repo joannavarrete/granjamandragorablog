@@ -1,4 +1,6 @@
 ---
+unpublished: true
+visible: false
 title: Bálsamo labial con sabor a menta
 price: 2
 product_id: balsamo-labial-cera-abejas-aceite-almendras-menta

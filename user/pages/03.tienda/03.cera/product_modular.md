@@ -1,4 +1,6 @@
 ---
+unpublished: true
+visible: false
 title: Cera de abejas 100% Natural
 price: 10
 product_id: cera_granel

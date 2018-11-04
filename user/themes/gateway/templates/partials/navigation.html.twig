@@ -50,7 +50,7 @@
               {% if theme_config.dropdown.enabled %}
               {{ _self.loop(pages) }}
               {% else %}
-              {% for page in pages.children.visible %}
+              {% for page in pages.children.visible%}
               {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
               <li id="menu-item-{{ loop.index }}" class="{{ current_page }}">
                 <a href="{{ page.url }}">
