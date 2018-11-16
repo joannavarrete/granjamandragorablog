@@ -5,8 +5,8 @@ vimeo:
   height: 321
 class: home-content
 buttons:
-    - text: Reserva tu miel de otoño
-      url: contacto
+    - text: Compra tu miel de otoño
+      url: tienda/miel-otono-2018
       class: button radius
 ---
 
