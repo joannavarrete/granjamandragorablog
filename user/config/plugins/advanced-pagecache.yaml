@@ -1,0 +1,7 @@
+enabled: true
+enabled_with_params: true
+enabled_with_query: true
+whitelist: false
+blacklist:
+  - /error
+  - /random
