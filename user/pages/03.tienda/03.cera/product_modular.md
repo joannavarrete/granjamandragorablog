@@ -9,7 +9,8 @@ custom:
       value: 500g
 onpage_menu: false
 body_classes: shop-product
-
+visible: false
+published: false
 content:
     items: @self.modular
     order:

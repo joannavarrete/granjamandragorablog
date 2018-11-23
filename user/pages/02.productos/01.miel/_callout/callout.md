@@ -4,11 +4,11 @@ logo:
   file: bote_miel_doodle_blanca.png
 title: Compra tu miel
 buttons: 
-  - text: Comprar miel
-    url: /tienda/miel-otono-2018 
+  - text:  Reserva tu miel
+    url: /contacto
 ---
-##[Compra Tu Miel de Otoño.](/tienda/miel-otono-2018)
-Compra tu miel de este <span>otoño de 2018</span>. Miel de algarrobo, tomillo y
-olivarda de la mejor calidad.
+##[Reserva tu miel de primavera.](/contacto)
+Reserva tu miel de <span>primavera de 2019</span>. Miel de romero, albaida y aliaga de  la mejor calidad.
+    
 
 

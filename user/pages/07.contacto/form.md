@@ -59,7 +59,7 @@ form:
 
 
 
-####Reserva aquí tu [miel](/productos/miel) para otoño de 2019 o [núcleos de abejas](/productos/nucleos) para la primavera.
+####Reserva aquí tu [miel](/productos/miel) o [núcleos de abejas](/productos/nucleos) para la primavera de 2019
   
 Si tienes un proyecto de permacultura cerca del nuestro nos interesaría conocerte e intercambiar opiniones.
 

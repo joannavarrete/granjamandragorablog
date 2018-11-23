@@ -5,7 +5,8 @@ product_id: balsamo-labial-cera-abejas-aceite-almendras-menta
 featured_image: balsamo_labial.jpg
 onpage_menu: false
 body_classes: shop-product
-
+visible: false
+published: false
 content:
     items: @self.modular
     order:

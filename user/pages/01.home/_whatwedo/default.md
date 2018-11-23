@@ -5,8 +5,8 @@ vimeo:
   height: 321
 class: home-content
 buttons:
-    - text: Compra tu miel de otoño
-      url: tienda/miel-otono-2018
+    - text: Reserva tu miel de primavera 2019
+      url: contacto
       class: button radius
 ---
 

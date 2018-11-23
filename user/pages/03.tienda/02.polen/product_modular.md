@@ -5,6 +5,7 @@ featured_image: polen.jpg
 product_id: polen
 unpublished: true
 visible: false
+published: false
 custom:
     - name: Tamaño
       options: 220g|450g[+5]

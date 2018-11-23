@@ -7,7 +7,8 @@ buttons:
   - text: Reserva tu miel
     url: /contacto    
 ---
-##[Reserva Tu Miel.](/contacto)
-Reserva tu miel de este <span>otoño de 2018</span>. Miel de algarrobo, tomillo y
-olivarda de la mejor calidad.
+##[Reserva Tu Miel de primavera.](/contacto)
+Reserva tu miel de <span>primavera de 2019</span>. Miel de romero, albaida y
+aliaga de la mejor calidad.
+
 

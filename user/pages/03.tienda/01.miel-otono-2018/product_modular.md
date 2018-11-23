@@ -5,6 +5,8 @@ product_id: miel-algarrobo-otono-2018
 featured_image: bote_miel_otono_500g.jpg
 body_classes: shop-product
 onpage_menu: false
+visible: false
+published: false
 custom:
     - name: Tamaño
       options: 500g|1000g[+4]

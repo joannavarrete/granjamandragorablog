@@ -15,8 +15,6 @@ taxonomy:
         - especies comestibles
         - plantas trepadoras
         - especies clima mediterráneo
-    featured: true
-
 ---
 
 La vid forma parte de la triada mediterránea, junto con el trigo y el

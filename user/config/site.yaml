@@ -12,8 +12,8 @@ header:
 
   background: 'extractor_1.jpeg'
   buttons:
-    - text: Reservar miel
-      url: "/productos/miel"
+    - text: Reserva tu miel de primavera 2019
+      url: "/contacto"
       class: button radius
 
 social:

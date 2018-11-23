@@ -1,5 +1,7 @@
 ---
 title: Tienda
+visible: false
+published: false
 category: Tienda
 body_classes: snipcart-granja
 content:
